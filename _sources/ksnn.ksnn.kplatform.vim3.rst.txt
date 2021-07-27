@@ -1,0 +1,29 @@
+ksnn.ksnn.kplatform.vim3 package
+================================
+
+Submodules
+----------
+
+ksnn.ksnn.kplatform.vim3.vim3\_nn\_api module
+---------------------------------------------
+
+.. automodule:: ksnn.ksnn.kplatform.vim3.vim3_nn_api
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ksnn.ksnn.kplatform.vim3.vim3\_nn\_types module
+-----------------------------------------------
+
+.. automodule:: ksnn.ksnn.kplatform.vim3.vim3_nn_types
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: ksnn.ksnn.kplatform.vim3
+   :members:
+   :undoc-members:
+   :show-inheritance:

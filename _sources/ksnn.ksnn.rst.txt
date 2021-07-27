@@ -1,0 +1,37 @@
+ksnn.ksnn package
+=================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   ksnn.ksnn.kplatform
+
+Submodules
+----------
+
+ksnn.ksnn.api module
+--------------------
+
+.. automodule:: ksnn.ksnn.api
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+ksnn.ksnn.types module
+----------------------
+
+.. automodule:: ksnn.ksnn.types
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: ksnn.ksnn
+   :members:
+   :undoc-members:
+   :show-inheritance:

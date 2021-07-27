@@ -1,0 +1,18 @@
+ksnn.kplatform package
+======================
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   ksnn.kplatform.vim3
+
+Module contents
+---------------
+
+.. automodule:: ksnn.kplatform
+   :members:
+   :undoc-members:
+   :show-inheritance:
