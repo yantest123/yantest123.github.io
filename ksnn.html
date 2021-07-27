@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>ksnn package &#8212; Khadas software neural network api 0.1 documentation</title>
+    <title>ksnn package &#8212; Khadas Software Neural Network Api 0.1 documentation</title>
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="_static/alabaster.css" />
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
@@ -57,14 +57,137 @@
 <section id="submodules">
 <h2>Submodules<a class="headerlink" href="#submodules" title="Permalink to this headline">¶</a></h2>
 </section>
-<section id="ksnn-api-module">
-<h2>ksnn.api module<a class="headerlink" href="#ksnn-api-module" title="Permalink to this headline">¶</a></h2>
+<section id="module-ksnn.api">
+<span id="ksnn-api-module"></span><h2>ksnn.api module<a class="headerlink" href="#module-ksnn.api" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="ksnn.api.KSNN">
+<em class="property"><span class="pre">class</span> </em><span class="sig-prename descclassname"><span class="pre">ksnn.api.</span></span><span class="sig-name descname"><span class="pre">KSNN</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">board</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.api.KSNN" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Class KSNN</p>
+<p>Function Description: Call for NPU</p>
+<dl class="py method">
+<dt class="sig sig-object py" id="ksnn.api.KSNN.nn_get_outputs">
+<span class="sig-name descname"><span class="pre">nn_get_outputs</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">num</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">out_format</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">out_format.OUT_FORMAT_FLOAT32</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.api.KSNN.nn_get_outputs" title="Permalink to this definition">¶</a></dt>
+<dd><p>Functions name: ‘ nn_get_outputs ‘</p>
+<p>Function Description: Get outputs data after run</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="ksnn.api.KSNN.nn_inference">
+<span class="sig-name descname"><span class="pre">nn_inference</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">cv_img</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">platform</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">reorder</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'0</span> <span class="pre">1</span> <span class="pre">2'</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">num</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">1</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">out_format</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">out_format.OUT_FORMAT_FLOAT32</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.api.KSNN.nn_inference" title="Permalink to this definition">¶</a></dt>
+<dd><p>Functions name: ‘ nn_inference ‘</p>
+<p>Function Description: Set inputs data and run and get outputs data</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="ksnn.api.KSNN.nn_init">
+<span class="sig-name descname"><span class="pre">nn_init</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">c_lib_p</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">nb_p</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.api.KSNN.nn_init" title="Permalink to this definition">¶</a></dt>
+<dd><p>Functions name: ‘ nn_init ‘</p>
+<p>Function Description: Create Neural Network</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="ksnn.api.KSNN.nn_output_tensor_info">
+<span class="sig-name descname"><span class="pre">nn_output_tensor_info</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">num</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.api.KSNN.nn_output_tensor_info" title="Permalink to this definition">¶</a></dt>
+<dd><p>Functions name: ‘ nn_output_tensor_info ‘</p>
+<p>Function Description: Get output tensor info</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="ksnn.api.KSNN.nn_run">
+<span class="sig-name descname"><span class="pre">nn_run</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.api.KSNN.nn_run" title="Permalink to this definition">¶</a></dt>
+<dd><p>Functions name: ‘ nn_run ‘</p>
+<p>Function Description: Run neural network</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="ksnn.api.KSNN.nn_set_inputs">
+<span class="sig-name descname"><span class="pre">nn_set_inputs</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">img</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">platform</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">reorder</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">'0</span> <span class="pre">1</span> <span class="pre">2'</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.api.KSNN.nn_set_inputs" title="Permalink to this definition">¶</a></dt>
+<dd><p>Functions name: ‘ nn_set_inputs ‘</p>
+<p>Function Description: Convert the data and set it into neural network</p>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="ksnn.api.KSNN.nn_version">
+<span class="sig-name descname"><span class="pre">nn_version</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.api.KSNN.nn_version" title="Permalink to this definition">¶</a></dt>
+<dd><p>Functions name: ‘ nn_version ‘</p>
+<p>Function Description: Print NPU API version</p>
+</dd></dl>
+
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="ksnn.api.file_exist_judgment">
+<span class="sig-prename descclassname"><span class="pre">ksnn.api.</span></span><span class="sig-name descname"><span class="pre">file_exist_judgment</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">file_path</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.api.file_exist_judgment" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
 </section>
-<section id="ksnn-types-module">
-<h2>ksnn.types module<a class="headerlink" href="#ksnn-types-module" title="Permalink to this headline">¶</a></h2>
+<section id="module-ksnn.types">
+<span id="ksnn-types-module"></span><h2>ksnn.types module<a class="headerlink" href="#module-ksnn.types" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="ksnn.types.ksnn_board">
+<em class="property"><span class="pre">class</span> </em><span class="sig-prename descclassname"><span class="pre">ksnn.types.</span></span><span class="sig-name descname"><span class="pre">ksnn_board</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.types.ksnn_board" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">enum.Enum</span></code></p>
+<p>An enumeration.</p>
+<dl class="py attribute">
+<dt class="sig sig-object py" id="ksnn.types.ksnn_board.BOARD_UNKNOWN">
+<span class="sig-name descname"><span class="pre">BOARD_UNKNOWN</span></span><em class="property"> <span class="pre">=</span> <span class="pre">0</span></em><a class="headerlink" href="#ksnn.types.ksnn_board.BOARD_UNKNOWN" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="ksnn.types.ksnn_board.BOARD_VIM3">
+<span class="sig-name descname"><span class="pre">BOARD_VIM3</span></span><em class="property"> <span class="pre">=</span> <span class="pre">1</span></em><a class="headerlink" href="#ksnn.types.ksnn_board.BOARD_VIM3" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="ksnn.types.ksnn_stat">
+<em class="property"><span class="pre">class</span> </em><span class="sig-prename descclassname"><span class="pre">ksnn.types.</span></span><span class="sig-name descname"><span class="pre">ksnn_stat</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.types.ksnn_stat" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">enum.Enum</span></code></p>
+<p>An enumeration.</p>
+<dl class="py attribute">
+<dt class="sig sig-object py" id="ksnn.types.ksnn_stat.STAT_FAIL">
+<span class="sig-name descname"><span class="pre">STAT_FAIL</span></span><em class="property"> <span class="pre">=</span> <span class="pre">1</span></em><a class="headerlink" href="#ksnn.types.ksnn_stat.STAT_FAIL" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="ksnn.types.ksnn_stat.STAT_SUCCESS">
+<span class="sig-name descname"><span class="pre">STAT_SUCCESS</span></span><em class="property"> <span class="pre">=</span> <span class="pre">0</span></em><a class="headerlink" href="#ksnn.types.ksnn_stat.STAT_SUCCESS" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="py class">
+<dt class="sig sig-object py" id="ksnn.types.out_format">
+<em class="property"><span class="pre">class</span> </em><span class="sig-prename descclassname"><span class="pre">ksnn.types.</span></span><span class="sig-name descname"><span class="pre">out_format</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">value</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#ksnn.types.out_format" title="Permalink to this definition">¶</a></dt>
+<dd><p>Bases: <code class="xref py py-class docutils literal notranslate"><span class="pre">enum.Enum</span></code></p>
+<p>An enumeration.</p>
+<dl class="py attribute">
+<dt class="sig sig-object py" id="ksnn.types.out_format.OUT_FORMAT_FLOAT32">
+<span class="sig-name descname"><span class="pre">OUT_FORMAT_FLOAT32</span></span><em class="property"> <span class="pre">=</span> <span class="pre">3</span></em><a class="headerlink" href="#ksnn.types.out_format.OUT_FORMAT_FLOAT32" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="ksnn.types.out_format.OUT_FORMAT_INT16">
+<span class="sig-name descname"><span class="pre">OUT_FORMAT_INT16</span></span><em class="property"> <span class="pre">=</span> <span class="pre">2</span></em><a class="headerlink" href="#ksnn.types.out_format.OUT_FORMAT_INT16" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="ksnn.types.out_format.OUT_FORMAT_INT8">
+<span class="sig-name descname"><span class="pre">OUT_FORMAT_INT8</span></span><em class="property"> <span class="pre">=</span> <span class="pre">1</span></em><a class="headerlink" href="#ksnn.types.out_format.OUT_FORMAT_INT8" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<dl class="py attribute">
+<dt class="sig sig-object py" id="ksnn.types.out_format.OUT_FORMAT_UINT8">
+<span class="sig-name descname"><span class="pre">OUT_FORMAT_UINT8</span></span><em class="property"> <span class="pre">=</span> <span class="pre">0</span></em><a class="headerlink" href="#ksnn.types.out_format.OUT_FORMAT_UINT8" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
 </section>
-<section id="module-contents">
-<h2>Module contents<a class="headerlink" href="#module-contents" title="Permalink to this headline">¶</a></h2>
+<section id="module-ksnn">
+<span id="module-contents"></span><h2>Module contents<a class="headerlink" href="#module-ksnn" title="Permalink to this headline">¶</a></h2>
 </section>
 </section>
 
@@ -75,7 +198,7 @@
       </div>
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
-<h1 class="logo"><a href="index.html">Khadas software neural network api</a></h1>
+<h1 class="logo"><a href="index.html">Khadas Software Neural Network Api</a></h1>
 
 
 
@@ -116,7 +239,7 @@
       <div class="clearer"></div>
     </div>
     <div class="footer">
-      &copy;2021, Yan.
+      &copy;2021, Yan <yan-wyb@foxmail.com>.
       
       |
       Powered by <a href="http://sphinx-doc.org/">Sphinx 4.1.2</a>
