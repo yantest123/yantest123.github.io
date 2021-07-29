@@ -1,7 +1,0 @@
-ksnn
-====
-
-.. toctree::
-   :maxdepth: 4
-
-   ksnn
