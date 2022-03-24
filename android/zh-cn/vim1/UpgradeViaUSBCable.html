@@ -2,7 +2,7 @@
 <html lang="zh-cn">
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8">
-  <title>通过USB升级固件 | Khadas Documentation</title>
+  <title>Install OS into eMMC | Khadas Documentation</title>
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Canonical links -->
@@ -63,20 +63,22 @@
   <!-- RSS -->
   <link rel="alternate" href="/android/atom.xml" title="Khadas Documentation" type="application/atom+xml">
   <!-- Open Graph -->
-  <meta name="description" content="由于VIM1、VIM2和VIM3操作方式基本上是一样的，所以本文档以VIM1为例进行说明。          Windows           Ubuntu        准备工作 下载升级工具USB Upgrade Tool并解压。 运行setup_v2.x.x.exe程序进行安装。  固件升级操作步骤确保已经正确安装好升级工具，按照下面步骤进行升级：  打开升级工具USB_Burning_T">
+  <meta name="description" content="All VIM series boards have onboard eMMC storage, so you can install the OS into the eMMC using the USB upgrade tool.         Install on Windows           Install on Ubuntu        Preparation Dowload t">
 <meta property="og:type" content="website">
-<meta property="og:title" content="通过USB升级固件">
+<meta property="og:title" content="Install OS into eMMC">
 <meta property="og:url" content="https://docs.khadas.com/zh-cn/vim1/UpgradeViaUSBCable">
 <meta property="og:site_name" content="Khadas Documentation">
-<meta property="og:description" content="由于VIM1、VIM2和VIM3操作方式基本上是一样的，所以本文档以VIM1为例进行说明。          Windows           Ubuntu        准备工作 下载升级工具USB Upgrade Tool并解压。 运行setup_v2.x.x.exe程序进行安装。  固件升级操作步骤确保已经正确安装好升级工具，按照下面步骤进行升级：  打开升级工具USB_Burning_T">
+<meta property="og:description" content="All VIM series boards have onboard eMMC storage, so you can install the OS into the eMMC using the USB upgrade tool.         Install on Windows           Install on Ubuntu        Preparation Dowload t">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://docs.khadas.com/android/images/vim1/usb_upgrade_tool_setup_v217_zh.png">
-<meta property="og:image" content="https://docs.khadas.com/android/images/vim1/usb_upgrade_tool_interface_v217_zh.png">
-<meta property="article:published_time" content="2021-11-26T10:46:46.976Z">
-<meta property="article:modified_time" content="2021-11-26T10:46:46.976Z">
+<meta property="og:image" content="https://docs.khadas.com/linux/images/vim1/usb_upgrade_tool_dir_1.png">
+<meta property="og:image" content="https://docs.khadas.com/linux/images/vim1/usb_upgrade_tool_dir_2.png">
+<meta property="og:image" content="https://docs.khadas.com/linux/images/vim1/usb_upgrade_tool_interface_v217_en.png">
+<meta property="og:image" content="https://docs.khadas.com/linux/images/vim4/usb_upgrade_tool_interface_en.png">
+<meta property="article:published_time" content="2022-03-04T03:27:39.635Z">
+<meta property="article:modified_time" content="2022-03-04T03:27:39.635Z">
 <meta property="article:author" content="Khadas">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://docs.khadas.com/android/images/vim1/usb_upgrade_tool_setup_v217_zh.png">
+<meta name="twitter:image" content="https://docs.khadas.com/linux/images/vim1/usb_upgrade_tool_dir_1.png">
 <meta name="twitter:site" content="khadas_official">
   <!-- Google Analytics -->
   
@@ -100,7 +102,7 @@
       <a href="/" id="logo">Hexo</a>
     </h1>
     <nav id="main-nav">
-      <div style="display:inline-block"><div class="btn-group"><div class="main-nav-link dropdown-toggle current" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">VIM</div><ul class="dropdown-menu submenu-list" aria-labelledby="dropdownMenuLink"><li class="submenu"><a href="/android/zh-cn/vim1/" class="main-nav-link secondary current">VIM1</a></li><li class="submenu"><a href="/android/zh-cn/vim2/" class="main-nav-link secondary ">VIM2</a></li><li class="submenu"><a href="/android/zh-cn/vim3/" class="main-nav-link secondary ">VIM3</a></li></ul></div><a href="/android/zh-cn/edge/" class="main-nav-link  header">Edge</a><a href="/android/zh-cn/hardware/hardwareVim1" class="main-nav-link  header">硬件资料</a><a href="/android/zh-cn/firmware/Vim1AndroidFirmware" class="main-nav-link  header">固件下载</a></div>
+      <div style="display:inline-block"><div class="btn-group"><div class="main-nav-link dropdown-toggle current" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">VIM</div><ul class="dropdown-menu submenu-list" aria-labelledby="dropdownMenuLink"><li class="submenu"><a href="/android/zh-cn/vim1/" class="main-nav-link secondary current">VIM1</a></li><li class="submenu"><a href="/android/zh-cn/vim2/" class="main-nav-link secondary ">VIM2</a></li><li class="submenu"><a href="/android/zh-cn/vim3/" class="main-nav-link secondary ">VIM3/3L</a></li><li class="submenu"><a href="/android/zh-cn/vim4/" class="main-nav-link secondary ">VIM4</a></li></ul></div><a href="/android/zh-cn/edge/" class="main-nav-link  header">Edge</a><a href="/android/zh-cn/hardware/hardwareVim1" class="main-nav-link  header">硬件资料</a><a href="/android/zh-cn/firmware/Vim1AndroidFirmware" class="main-nav-link  header">固件下载</a></div>
       <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/khadas" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
       <div id="search-input-wrap">
         <div id="search-input-icon">
@@ -135,97 +137,171 @@
           <div class="article">
             <div class="inner inner-article">
               <header class="article-header">
-                <h1 class="article-title" itemprop="name">通过USB升级固件</h1>
+                <h1 class="article-title" itemprop="name">Install OS into eMMC</h1>
                 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/khadas/khadas_docs/edit/master/android/source/zh-cn/vim1/UpgradeViaUSBCable.md" class="article-edit-link" title="改进本文"><i class="fa fa-pencil"></i></a>
               </header>
               <div class="article-content" itemprop="articleBody">
-                <blockquote class="note info"><strong class="note-title">由于VIM1、VIM2和VIM3操作方式基本上是一样的，所以本文档以VIM1为例进行说明。</strong></blockquote>
-
+                <p>All VIM series boards have <strong>onboard eMMC storage</strong>, so you can install the <strong>OS</strong> into the <strong>eMMC</strong> using the <strong>USB upgrade tool</strong>.</p>
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item" role="presentation">
-    <a class="nav-link active" id="win-tab" data-toggle="tab" href="#win" role="tab" aria-controls="win" aria-selected="true">Windows</a>
+    <a class="nav-link active" id="win-tab" data-toggle="tab" href="#win" role="tab" aria-controls="win" aria-selected="true">Install on Windows</a>
   </li>
   <li class="nav-item" role="presentation">
-    <a class="nav-link" id="ubu-tab" data-toggle="tab" href="#ubu" role="tab" aria-controls="ubu" aria-selected="false">Ubuntu</a>
+    <a class="nav-link" id="ubu-tab" data-toggle="tab" href="#ubu" role="tab" aria-controls="ubu" aria-selected="false">Install on Ubuntu</a>
   </li>
 </ul>
 <div class="tab-content" id="myTabContent">
 <div class="tab-pane fade show active" id="win" role="tabpanel" aria-labelledby="win-tab">
 
-<h2 id="准备工作" class="article-heading"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作<a class="article-anchor" href="#准备工作" aria-hidden="true"></a></h2><ul>
-<li>下载升级工具<a target="_blank" rel="noopener external nofollow noreferrer" href="https://dl.khadas.com/Tools/USB_Burning_Tool_v2.2.0.zip">USB Upgrade Tool</a>并解压。</li>
-<li>运行<code>setup_v2.x.x.exe</code>程序进行安装。<br><img src="/android/images/vim1/usb_upgrade_tool_setup_v217_zh.png" alt="image"></li>
-</ul>
-<h2 id="固件升级操作步骤" class="article-heading"><a href="#固件升级操作步骤" class="headerlink" title="固件升级操作步骤"></a>固件升级操作步骤<a class="article-anchor" href="#固件升级操作步骤" aria-hidden="true"></a></h2><p>确保已经正确安装好升级工具，按照下面步骤进行升级：</p>
-<ol>
-<li>打开升级工具<code>USB_Burning_Tool_v2.x.x.exe</code>，点击”File–&gt;Import image”选择要升级的固件。</li>
-<li>用USB-C线连接VIMs和PC电脑（默认VIMs上电会自动开机）。</li>
-<li>进入固件更新模式<ul>
-<li>长按Power键不要松开</li>
-<li>短按Rest键并松开</li>
-<li>大概10秒后松开Power键进入固件升级模式</li>
-</ul>
-</li>
-<li>如果上面操作已正确执行，电脑端会发现VIMs升级设备，点击升级工具上的start按钮开始固件升级,升级进度条100%时完成升级。<br><img src="/android/images/vim1/usb_upgrade_tool_interface_v217_zh.png" alt="image"></li>
+<h2 id="Preparation" class="article-heading"><a href="#Preparation" class="headerlink" title="Preparation"></a>Preparation<a class="article-anchor" href="#Preparation" aria-hidden="true"></a></h2><ol>
+<li>Dowload the <a target="_blank" rel="noopener external nofollow noreferrer" href="http://dl.khadas.com/products/vim4/tool/Aml_Burn_Tool_V3.2.0.zip">USB Upgrade Tool</a> and extract it.</li>
+<li>Description of the USB Upgrade Tool’s directory contents:<br><img src="/linux/images/vim1/usb_upgrade_tool_dir_1.png" alt="image"></li>
 </ol>
-<blockquote class="note info"><strong class="note-title">提示</strong><ul>
-<li>先点击<code>stop</code>按钮再关闭升级工具。</li>
-<li>外部供电要求(<a href="/android/zh-cn/vim1/ExtraPowerInput.html">VIM1</a>/<a href="/android/zh-cn/vim2/ExtraPowerInput.html">VIM2</a>/<a href="/android/zh-cn/vim3/ExtraPowerInput.html">VIM3</a>)，部分电脑供电比较弱会导致升级失败。</li>
+<ul>
+<li>The <code>V2</code> and <code>V3</code> folders hold the original burning tool files</li>
+<li>The <code>burn tool</code> folder stores burning tools and drivers for different boards</li>
+</ul>
+<ol start="3">
+<li>Description of the <code>burn tool</code> directory contents:<br><img src="/linux/images/vim1/usb_upgrade_tool_dir_2.png" alt="image"></li>
+</ol>
+<ul>
+<li><code>Driver-VIM1_2_3</code> Driver files for VIM1/VIM2/VIM3/VIM3L boards</li>
+<li><code>Driver-VIM4</code> Driver files for the VIM4 board</li>
+<li><code>VIM1_2_3.exe</code> Burning tool for VIM1/VIM2/VIM3/VIM3L boards</li>
+<li><code>VIM4.exe</code> Burning tool for the VIM4 board</li>
+</ul>
+<h2 id="Installation" class="article-heading"><a href="#Installation" class="headerlink" title="Installation"></a>Installation<a class="article-anchor" href="#Installation" aria-hidden="true"></a></h2><ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <a class="nav-link active" id="vim1-tab" data-toggle="tab" href="#vim1-tool" role="tab" aria-controls="vim1" aria-selected="true">VIM1/VIM2/VIM3</a>
+  </li>
+  <li class="nav-item" role="presentation">
+    <a class="nav-link" id="vim4-tab" data-toggle="tab" href="#vim4-tool" role="tab" aria-controls="vim4" aria-selected="false">VIM4</a>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+<div class="tab-pane fade show active" id="vim1-tool" role="tabpanel" aria-labelledby="vim1-tab">
+
+<p><strong>Driver Installation</strong></p>
+<ol>
+<li>Enter the <code>Driver-VIM1_2_3</code> directory, and install <code>dpscat.exe</code>. The installation process is quick, and there’s is no GUI display.</li>
+<li>Install <code>dpinst64.exe</code>. After the installation is successful, you can burn the firmware.</li>
+</ol>
+<p><strong>Make sure the driver is installed correctly, then follow the steps below to burn firmware:</strong></p>
+<ol>
+<li><p>Enter the <code>burn tool</code> directory, open <code>VIM1_2_3.exe</code>, click <code>File--&gt;Import Image</code>, then choose an <a target="_blank" rel="noopener external nofollow noreferrer" href="https://dl.khadas.com/Firmware/">image</a> for your board.</p>
+</li>
+<li><p>Connect your board to your PC with a USB-C data cable (the board will power on automatically).</p>
+</li>
+<li><p>Put your board into <a href="BootIntoUpgradeMode.html">Upgrade Mode</a>.</p>
+</li>
+<li><p>If you have performed steps 2 and 3 correctly, your PC will automatically discover your board as an attached USB-device.</p>
+<p> Now all you need to do is to click the <code>Start</code> button and wait for burning to complete:<br> <img src="/linux/images/vim1/usb_upgrade_tool_interface_v217_en.png" alt="Image of USB_Upgrade_Tool_Interface_v217"></p>
+</li>
+</ol>
+</div>
+<div class="tab-pane fade" id="vim4-tool" role="tabpanel" aria-labelledby="vim4-tab">
+
+<p><strong>Driver Installation</strong></p>
+<ol>
+<li>Enter the <code>Driver-VIM4</code> directory, install <code>dpscat.exe</code>. The installation process is quick, and there is no GUI display.</li>
+<li>Install <code>dpinst64.exe</code>. After the installation is successful, you can burn the firmware.</li>
+</ol>
+<p><strong>Make sure the driver is installed correctly, then follow the steps below to upgrade:</strong></p>
+<ol>
+<li><p>Enter the <code>burn tool</code> directory, open <code>VIM4.exe</code>, click <code>Setup--&gt;Load Image</code>, then choose an <a target="_blank" rel="noopener external nofollow noreferrer" href="https://dl.khadas.com/Firmware/">image</a> for your board.</p>
+</li>
+<li><p>Connect your board to your PC with a USB-C data cable (the board will power on automatically).</p>
+</li>
+<li><p>Put your board into <a href="BootIntoUpgradeMode.html">Upgrade Mode</a>.</p>
+</li>
+<li><p>If you have performed steps 2 and 3 correctly, your PC will automatically discover your board as an attached USB-device.</p>
+<p> Now all you need to do is to click the <code>Start</code> button and wait for burning to complete:<br> <img src="/linux/images/vim4/usb_upgrade_tool_interface_en.png" alt="Image of USB_Upgrade_Tool_Interface_v217"></p>
+</li>
+</ol>
+</div>
+
+<blockquote class="note info"><strong class="note-title">Tips</strong><ul>
+<li>To interrupt burning, click the <code>Stop</code> button, then close the USB Upgrade Tool. Note that the eMMC may already have been completely erased if you went past the 15% mark</li>
+<li>An <a href="ExtraPowerInput.html">External Power Supply</a> may be required in cases where your PC cannot provide enough electrical power for the burning process</li>
+<li>If your system is a 32-bit system, please select <code>dpinst32.exe</code> when installing the driver</li>
 </ul>
 </blockquote>
 
+</div>
 </div>
 <div class="tab-pane fade" id="ubu" role="tabpanel" aria-labelledby="ubu-tab">
 
-<h2 id="准备" class="article-heading"><a href="#准备" class="headerlink" title="准备"></a>准备<a class="article-anchor" href="#准备" aria-hidden="true"></a></h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ sudo apt-get install libusb-dev git parted</span><br></pre></td></tr></table></figure>
+<blockquote class="note warn"><strong class="note-title">Note</strong><p>Tools were verified to function properly on Ubuntu only, we make no guarantees for other Linux distributions!</p>
+</blockquote>
 
-<h2 id="获取ubuntu烧录工具" class="article-heading"><a href="#获取ubuntu烧录工具" class="headerlink" title="获取ubuntu烧录工具"></a>获取ubuntu烧录工具<a class="article-anchor" href="#获取ubuntu烧录工具" aria-hidden="true"></a></h2><p>烧录工具在仓库<a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/khadas/utils">utils</a>中。</p>
+<h2 id="Preparation-1" class="article-heading"><a href="#Preparation-1" class="headerlink" title="Preparation"></a>Preparation<a class="article-anchor" href="#Preparation-1" aria-hidden="true"></a></h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ sudo apt-get install libusb-dev git parted</span><br></pre></td></tr></table></figure>
+
+<h2 id="Download-Burning-Tool" class="article-heading"><a href="#Download-Burning-Tool" class="headerlink" title="Download Burning Tool"></a>Download Burning Tool<a class="article-anchor" href="#Download-Burning-Tool" aria-hidden="true"></a></h2><p>Image burning tool for Ubuntu is in this repository <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/khadas/utils">utils</a>.</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/khadas/utils</span><br></pre></td></tr></table></figure>
-
-<p>如果你之前已经下载过<code>utils</code>仓库，那么你只需要更新到最新版本即可。</p>
+<p>Or just pull it (if you have already cloned this repository).</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> /path/to/utils</span><br><span class="line">$ git pull</span><br></pre></td></tr></table></figure>
 
-<h2 id="安装烧录工具" class="article-heading"><a href="#安装烧录工具" class="headerlink" title="安装烧录工具"></a>安装烧录工具<a class="article-anchor" href="#安装烧录工具" aria-hidden="true"></a></h2><p>需要安装usb规则以及创建链接文件。</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> /path/to/utils</span><br><span class="line">$ ./INSTALL</span><br></pre></td></tr></table></figure>
+<h2 id="Install-Burning-Tool" class="article-heading"><a href="#Install-Burning-Tool" class="headerlink" title="Install Burning Tool"></a>Install Burning Tool<a class="article-anchor" href="#Install-Burning-Tool" aria-hidden="true"></a></h2><p>You need to install USB rules and create some links.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> /path/to/utils</span><br><span class="line">$ sudo ./INSTALL</span><br></pre></td></tr></table></figure>
 
-<p>如果成功安装你会看到如下信息：</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">Installing Amlogic flash-tool...</span><br><span class="line"></span><br><span class="line">===============================================</span><br><span class="line"></span><br><span class="line"> Host PC: Ubuntu 16.04</span><br><span class="line"> </span><br><span class="line"> ===============================================</span><br><span class="line"> </span><br><span class="line"> Installing USB rules...</span><br><span class="line"> [sudo] password <span class="keyword">for</span> nick:</span><br><span class="line"> Installing flash-tool...</span><br><span class="line"> Done!</span><br><span class="line"> </span><br><span class="line"> Installing Rockchip flash-tool...</span><br><span class="line"> </span><br><span class="line"> ===============================================</span><br><span class="line">         </span><br><span class="line"> Host PC: Ubuntu 16.04</span><br><span class="line">                 </span><br><span class="line"> ===============================================</span><br><span class="line">                   </span><br><span class="line"> Installing USB rules...</span><br><span class="line"> Installing flash-tool...</span><br><span class="line"> Done!</span><br><span class="line"> Installing Khadas burn</span><br><span class="line"> Done!</span><br></pre></td></tr></table></figure>
-
-<blockquote class="note info"><strong class="note-title">注意</strong><p>安装过程中需要root权限。</p>
+<p>You will see this print-out if it was successful.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">Installing Amlogic flash-tool...</span><br><span class="line"></span><br><span class="line">===============================================</span><br><span class="line"></span><br><span class="line">Host PC: Ubuntu 16.04</span><br><span class="line"></span><br><span class="line">===============================================</span><br><span class="line"></span><br><span class="line">Installing USB rules...</span><br><span class="line">[sudo] password <span class="keyword">for</span> User:</span><br><span class="line">Installing flash-tool...</span><br><span class="line">Done!</span><br><span class="line"></span><br><span class="line">Installing Rockchip flash-tool...</span><br><span class="line"></span><br><span class="line">===============================================</span><br><span class="line"></span><br><span class="line">Host PC: Ubuntu 16.04</span><br><span class="line"></span><br><span class="line">===============================================</span><br><span class="line"></span><br><span class="line">Installing USB rules...</span><br><span class="line">Installing flash-tool...</span><br><span class="line">Done!</span><br><span class="line">Installing Khadas burn-tool...</span><br><span class="line">Done!</span><br></pre></td></tr></table></figure>
+<blockquote class="note warn"><strong class="note-title">Note</strong><p>Root privilege is required.</p>
 </blockquote>
 
-<h2 id="检查USB驱动" class="article-heading"><a href="#检查USB驱动" class="headerlink" title="检查USB驱动"></a>检查USB驱动<a class="article-anchor" href="#检查USB驱动" aria-hidden="true"></a></h2><p>首先设置VIMs进入升级模式(<a href="/android/zh-cn/vim1/BootIntoUpgradeMode.html">VIM1</a>/<a href="/android/zh-cn/vim2/BootIntoUpgradeMode.html">VIM2</a>/<a href="/android/zh-cn/vim3/BootIntoUpgradeMode.html">VIM3</a>)，然后检查USB驱动：</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ lsusb | grep Amlogic</span><br><span class="line">Bus 002 Devices 036: ID 1b8e:c003 Amlogic, Inc.</span><br></pre></td></tr></table></figure>
-
-<p>以上信息说明PC已经识别到了VIM3</p>
-<h2 id="在Ubuntu下烧录固件" class="article-heading"><a href="#在Ubuntu下烧录固件" class="headerlink" title="在Ubuntu下烧录固件"></a>在Ubuntu下烧录固件<a class="article-anchor" href="#在Ubuntu下烧录固件" aria-hidden="true"></a></h2><p>有2个命令可以用于烧录固件：<code>burn-tool</code>和<code>aml-burn-tool</code>。</p>
-<p>以烧录VIM3为例：</p>
-<ul>
-<li>通过烧录命令<code>burn-tool</code>：</li>
+<h2 id="Check-The-USB-Driver" class="article-heading"><a href="#Check-The-USB-Driver" class="headerlink" title="Check The USB Driver"></a>Check The USB Driver<a class="article-anchor" href="#Check-The-USB-Driver" aria-hidden="true"></a></h2><p>You must now place your board into <code>Upgrade Mode</code>. See <a href="BootIntoUpgradeMode.html">how to enter upgrade mode</a>.<br>Check to see if Ubuntu has detected your board as an attached USB-device.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ lsusb | grep Amlogic</span><br><span class="line">BUS 002 Device 036: ID 1b8e:c003 Amlogic, Inc.</span><br></pre></td></tr></table></figure>
+<p>The message above means that your board is connected and recogized by Ubuntu.</p>
+<h2 id="Install-the-System-on-Ubuntu" class="article-heading"><a href="#Install-the-System-on-Ubuntu" class="headerlink" title="Install the System on Ubuntu"></a>Install the System on Ubuntu<a class="article-anchor" href="#Install-the-System-on-Ubuntu" aria-hidden="true"></a></h2><ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <a class="nav-link active" id="boards-tab" data-toggle="tab" href="#vim1vim2" role="tab" aria-controls="vim1vim2" aria-selected="true">VIM1/VIM2</a>
+  </li>
+  <li class="nav-item" role="presentation">
+    <a class="nav-link" id="vim3-tab" data-toggle="tab" href="#vim3" role="tab" aria-controls="vim3" aria-selected="false">VIM3/VIM3L</a>
+  </li>
+  <li class="nav-item" role="presentation">
+    <a class="nav-link" id="vim4-tab" data-toggle="tab" href="#vim4" role="tab" aria-controls="vim4" aria-selected="false">VIM4</a>
+  </li>
 </ul>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ burn-tool -v aml -b VIM3 -i /path/to/image</span><br></pre></td></tr></table></figure>
+<div class="tab-content" id="myTabContent">
+<div class="tab-pane fade show active" id="vim1vim2" role="tabpanel" aria-labelledby="boards-tab">
 
-<ul>
-<li>Amlogic平台专用烧录命令<code>aml-burn-tool</code>：</li>
-</ul>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ aml-burn-tool -i /path/to/image</span><br></pre></td></tr></table></figure>
+
+<p>You will see these teminal logs if successful.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">Rebooting the board ........[OK]</span><br><span class="line">Unpacking image [OK]</span><br><span class="line">Initializing ddr ........[OK]</span><br><span class="line">Running u-boot ........[OK]</span><br><span class="line">Create partitions [OK]</span><br><span class="line">Writing device tree [OK]</span><br><span class="line">Writing bootloader [OK]</span><br><span class="line">Wiping  data partition [OK]</span><br><span class="line">Wiping  cache partition [OK]</span><br><span class="line">Writing boot partition [OK]</span><br><span class="line">Writing data partition [OK]</span><br><span class="line">Writing logo partition [OK]</span><br><span class="line">Writing system partition [OK]</span><br><span class="line">Do you want to reset the board? y/n [n]? y</span><br><span class="line">Resetting board [OK]</span><br></pre></td></tr></table></figure>
+
+</div>
+<div class="tab-pane fade" id="vim3" role="tabpanel" aria-labelledby="vim3-tab">
+
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ aml-burn-tool -b VIM3 -i /path/to/image</span><br></pre></td></tr></table></figure>
 
-<blockquote class="note info"><strong class="note-title">注意</strong><p>烧录VIM3一定要指定<code>-b VIM3</code>参数，否则会失败。对于VIM1或VIM2不用指定。</p>
-</blockquote>
+<p>You will see these Terminal logs if successful.</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">Rebooting the board ........[OK]</span><br><span class="line">Unpacking image [OK]</span><br><span class="line">Initializing ddr ........[OK]</span><br><span class="line">Running u-boot ........[OK]</span><br><span class="line">Create partitions [OK]</span><br><span class="line">Writing device tree [OK]</span><br><span class="line">Writing bootloader [OK]</span><br><span class="line">Wiping  data partition [OK]</span><br><span class="line">Wiping  cache partition [OK]</span><br><span class="line">Writing boot partition [OK]</span><br><span class="line">Writing data partition [OK]</span><br><span class="line">Writing logo partition [OK]</span><br><span class="line">Writing system partition [OK]</span><br><span class="line">Do you want to reset the board? y/n [n]? y</span><br><span class="line">Resetting board [OK]</span><br></pre></td></tr></table></figure>
 
-<p>如果烧录成功你会看到如下信息：</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">Rebooting the board ........[OK]</span><br><span class="line">Unpacking image [OK]</span><br><span class="line">Initializing ddr ........[OK]</span><br><span class="line">Running u-boot ........[OK]</span><br><span class="line">Create partitions [OK]</span><br><span class="line">Writing device tree [OK]</span><br><span class="line">Writing bootloader [OK]</span><br><span class="line">Wiping  data partition [OK]</span><br><span class="line">Wiping  cache partition [OK]</span><br><span class="line">Writing boot partition [OK]</span><br><span class="line">Writing data partition [OK]</span><br><span class="line">Writing logo partition [OK]</span><br><span class="line">Writing system partition [OK]</span><br><span class="line">Do you want to reset the board? y/n [n]? y</span><br><span class="line">Resetting board [OK]</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+</div>
+<div class="tab-pane fade" id="vim4" role="tabpanel" aria-labelledby="vim4-tab">
 
-<p>更多请参考<a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/khadas/utils/tree/master/aml-flash-tool/docs">文档</a>。</p>
-<h2 id="卸载烧录工具" class="article-heading"><a href="#卸载烧录工具" class="headerlink" title="卸载烧录工具"></a>卸载烧录工具<a class="article-anchor" href="#卸载烧录工具" aria-hidden="true"></a></h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> /path/to/utils</span><br><span class="line">$ ./UNINSTALL</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ aml-burn-tool -b VIM4 -i /path/to/image</span><br></pre></td></tr></table></figure>
 
 </div>
 </div>
 
+
+<p>For more information please refer to <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/khadas/utils/tree/master/aml-flash-tool/docs">docs</a>.</p>
+<h2 id="Uninstall-Burning-Tool" class="article-heading"><a href="#Uninstall-Burning-Tool" class="headerlink" title="Uninstall Burning Tool"></a>Uninstall Burning Tool<a class="article-anchor" href="#Uninstall-Burning-Tool" aria-hidden="true"></a></h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> /path/to/utils</span><br><span class="line">$ sudo ./UNINSTALL</span><br></pre></td></tr></table></figure>
+
+</div>
+</div>
+
+
+<h2 id="See-Also" class="article-heading"><a href="#See-Also" class="headerlink" title="See Also"></a>See Also<a class="article-anchor" href="#See-Also" aria-hidden="true"></a></h2><ul>
+<li><a href="BootIntoUpgradeMode.html">Boot into Upgrade Mode</a></li>
+</ul>
 
               </div>
               <footer class="article-footer">
-                <time class="article-footer-updated" datetime="2021-11-26T10:46:46.976Z" itemprop="dateModified">上次更新：2021-11-26</time>
+                <time class="article-footer-updated" datetime="2022-03-04T03:27:39.635Z" itemprop="dateModified">上次更新：2022-03-04</time>
                 <a href="BootIntoUpgradeMode.html" class="article-footer-prev" title="进入升级模式"><i class="fa fa-chevron-left"></i><span>上一页</span></a><a href="UpgradeViaTFBurningCard.html" class="article-footer-next" title="通过TF卡升级安卓"><span>下一页</span><i class="fa fa-chevron-right"></i></a>
               </footer>
               
@@ -235,7 +311,7 @@
             <div id="article-toc-inner">
               <div class="article-toc-border">
                 <strong class="sidebar-title">目录</strong>
-                <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C"><span class="toc-text" title="准备工作">准备工作</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%9B%BA%E4%BB%B6%E5%8D%87%E7%BA%A7%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4"><span class="toc-text" title="固件升级操作步骤">固件升级操作步骤</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%87%86%E5%A4%87"><span class="toc-text" title="准备">准备</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%8E%B7%E5%8F%96ubuntu%E7%83%A7%E5%BD%95%E5%B7%A5%E5%85%B7"><span class="toc-text" title="获取ubuntu烧录工具">获取ubuntu烧录工具</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%AE%89%E8%A3%85%E7%83%A7%E5%BD%95%E5%B7%A5%E5%85%B7"><span class="toc-text" title="安装烧录工具">安装烧录工具</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%A3%80%E6%9F%A5USB%E9%A9%B1%E5%8A%A8"><span class="toc-text" title="检查USB驱动">检查USB驱动</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%9C%A8Ubuntu%E4%B8%8B%E7%83%A7%E5%BD%95%E5%9B%BA%E4%BB%B6"><span class="toc-text" title="在Ubuntu下烧录固件">在Ubuntu下烧录固件</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%8D%B8%E8%BD%BD%E7%83%A7%E5%BD%95%E5%B7%A5%E5%85%B7"><span class="toc-text" title="卸载烧录工具">卸载烧录工具</span></a></li></ol>
+                <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Preparation"><span class="toc-text" title="Preparation">Preparation</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Installation"><span class="toc-text" title="Installation">Installation</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Preparation-1"><span class="toc-text" title="Preparation">Preparation</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Download-Burning-Tool"><span class="toc-text" title="Download Burning Tool">Download Burning Tool</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Install-Burning-Tool"><span class="toc-text" title="Install Burning Tool">Install Burning Tool</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Check-The-USB-Driver"><span class="toc-text" title="Check The USB Driver">Check The USB Driver</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Install-the-System-on-Ubuntu"><span class="toc-text" title="Install the System on Ubuntu">Install the System on Ubuntu</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Uninstall-Burning-Tool"><span class="toc-text" title="Uninstall Burning Tool">Uninstall Burning Tool</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#See-Also"><span class="toc-text" title="See Also">See Also</span></a></li></ol>
                 <a href="#" id="article-toc-top">回到顶部</a>
               </div>
             </div>
@@ -270,7 +346,7 @@
   <nav id="mobile-nav">
   <div id="mobile-nav-inner">
     <ul id="mobile-nav-list">
-      <strong class="mobile-nav-link current header"><details open><summary>VIM</summary><a href="/android/zh-cn/vim1/" class="mobile-nav-link secondary current">VIM1</a><a href="/android/zh-cn/vim2/" class="mobile-nav-link secondary ">VIM2</a><a href="/android/zh-cn/vim3/" class="mobile-nav-link secondary ">VIM3</a></details></strong><a href="/android/zh-cn/edge/" class="mobile-nav-link  header">Edge</a><a href="/android/zh-cn/hardware/hardwareVim1" class="mobile-nav-link  header">硬件资料</a><a href="/android/zh-cn/firmware/Vim1AndroidFirmware" class="mobile-nav-link  header">固件下载</a>
+      <strong class="mobile-nav-link current header"><details open><summary>VIM</summary><a href="/android/zh-cn/vim1/" class="mobile-nav-link secondary current">VIM1</a><a href="/android/zh-cn/vim2/" class="mobile-nav-link secondary ">VIM2</a><a href="/android/zh-cn/vim3/" class="mobile-nav-link secondary ">VIM3/3L</a><a href="/android/zh-cn/vim4/" class="mobile-nav-link secondary ">VIM4</a></details></strong><a href="/android/zh-cn/edge/" class="mobile-nav-link  header">Edge</a><a href="/android/zh-cn/hardware/hardwareVim1" class="mobile-nav-link  header">硬件资料</a><a href="/android/zh-cn/firmware/Vim1AndroidFirmware" class="mobile-nav-link  header">固件下载</a>
       <li class="mobile-nav-item">
         <a href="https://github.com/khadas" class="mobile-nav-link header" rel="external" target="_blank">GitHub</a>
       </li>

@@ -2,7 +2,7 @@
 <html lang="en">
 <head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8">
-  <title>How To Use ADB Tool | Khadas Documentation</title>
+  <title>ADB Tool | Khadas Documentation</title>
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Canonical links -->
@@ -63,17 +63,19 @@
   <!-- RSS -->
   <link rel="alternate" href="/android/atom.xml" title="Khadas Documentation" type="application/atom+xml">
   <!-- Open Graph -->
-  <meta name="description" content="Install ADBHow to install ADBFirst you must synchronized index file,then you can Install it directly. 12$ sudo apt-get update$ sudo apt-get install android-tools-adb  Add permission &amp; Write config">
+  <meta name="description" content="Linux           Windows        Install ADBInstall the ADB tool by synchronizing the index file: 12$ sudo apt-get update$ sudo apt-get install android-tools-adb  Add permission and configuratio">
 <meta property="og:type" content="website">
-<meta property="og:title" content="How To Use ADB Tool">
+<meta property="og:title" content="ADB Tool">
 <meta property="og:url" content="https://docs.khadas.com/vim1/ADBTool">
 <meta property="og:site_name" content="Khadas Documentation">
-<meta property="og:description" content="Install ADBHow to install ADBFirst you must synchronized index file,then you can Install it directly. 12$ sudo apt-get update$ sudo apt-get install android-tools-adb  Add permission &amp; Write config">
+<meta property="og:description" content="Linux           Windows        Install ADBInstall the ADB tool by synchronizing the index file: 12$ sudo apt-get update$ sudo apt-get install android-tools-adb  Add permission and configuratio">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2021-11-26T10:46:46.968Z">
-<meta property="article:modified_time" content="2021-11-26T10:46:46.968Z">
+<meta property="og:image" content="https://docs.khadas.com/android/images/vim4/adb.png">
+<meta property="article:published_time" content="2022-03-22T01:19:13.598Z">
+<meta property="article:modified_time" content="2022-03-22T01:19:13.598Z">
 <meta property="article:author" content="Khadas">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://docs.khadas.com/android/images/vim4/adb.png">
 <meta name="twitter:site" content="khadas_official">
   <!-- Google Analytics -->
   
@@ -97,7 +99,7 @@
       <a href="/" id="logo">Hexo</a>
     </h1>
     <nav id="main-nav">
-      <div style="display:inline-block"><div class="btn-group"><div class="main-nav-link dropdown-toggle current" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">VIM</div><ul class="dropdown-menu submenu-list" aria-labelledby="dropdownMenuLink"><li class="submenu"><a href="/android/vim1/" class="main-nav-link secondary current">VIM1</a></li><li class="submenu"><a href="/android/vim2/" class="main-nav-link secondary ">VIM2</a></li><li class="submenu"><a href="/android/vim3/" class="main-nav-link secondary ">VIM3</a></li></ul></div><a href="/android/edge/" class="main-nav-link  header">Edge</a><a href="/android/hardware/hardwareVim1" class="main-nav-link  header">Hardware</a><a href="/android/firmware/Vim1AndroidFirmware" class="main-nav-link  header">Firmware</a></div>
+      <div style="display:inline-block"><div class="btn-group"><div class="main-nav-link dropdown-toggle current" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">VIM</div><ul class="dropdown-menu submenu-list" aria-labelledby="dropdownMenuLink"><li class="submenu"><a href="/android/vim1/" class="main-nav-link secondary current">VIM1</a></li><li class="submenu"><a href="/android/vim2/" class="main-nav-link secondary ">VIM2</a></li><li class="submenu"><a href="/android/vim3/" class="main-nav-link secondary ">VIM3/3L</a></li><li class="submenu"><a href="/android/vim4/" class="main-nav-link secondary ">VIM4</a></li></ul></div><a href="/android/edge/" class="main-nav-link  header">Edge</a><a href="/android/hardware/hardwareVim1" class="main-nav-link  header">Hardware</a><a href="/android/firmware/Vim1AndroidFirmware" class="main-nav-link  header">Firmware</a></div>
       <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/khadas" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
       <div id="search-input-wrap">
         <div id="search-input-icon">
@@ -132,57 +134,73 @@
           <div class="article">
             <div class="inner inner-article">
               <header class="article-header">
-                <h1 class="article-title" itemprop="name">How To Use ADB Tool</h1>
+                <h1 class="article-title" itemprop="name">ADB Tool</h1>
                 <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/khadas/khadas_docs/edit/master/android/source/vim1/ADBTool.md" class="article-edit-link" title="Improve this doc"><i class="fa fa-pencil"></i></a>
               </header>
               <div class="article-content" itemprop="articleBody">
-                <h2 id="Install-ADB" class="article-heading"><a href="#Install-ADB" class="headerlink" title="Install ADB"></a>Install ADB<a class="article-anchor" href="#Install-ADB" aria-hidden="true"></a></h2><h3 id="How-to-install-ADB" class="article-heading"><a href="#How-to-install-ADB" class="headerlink" title="How to install ADB"></a>How to install ADB<a class="article-anchor" href="#How-to-install-ADB" aria-hidden="true"></a></h3><p>First you must synchronized index file,then you can Install it directly.</p>
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <a class="nav-link active" id="Linux-tab" data-toggle="tab" href="#Linux-pins" role="tab" aria-controls="Linux" aria-selected="true">Linux</a>
+  </li>
+  <li class="nav-item" role="presentation">
+    <a class="nav-link" id="Windows-tab" data-toggle="tab" href="#Windows-pins" role="tab" aria-controls="Windows" aria-selected="false">Windows</a>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+<div class="tab-pane fade show active" id="Linux-pins" role="tabpanel" aria-labelledby="Linux-tab">
+
+<h2 id="Install-ADB" class="article-heading"><a href="#Install-ADB" class="headerlink" title="Install ADB"></a>Install ADB<a class="article-anchor" href="#Install-ADB" aria-hidden="true"></a></h2><p>Install the ADB tool by synchronizing the index file:</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> sudo apt-get update</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> sudo apt-get install android-tools-adb</span></span><br></pre></td></tr></table></figure>
 
-<h3 id="Add-permission-amp-Write-configuration-files" class="article-heading"><a href="#Add-permission-amp-Write-configuration-files" class="headerlink" title="Add permission &amp; Write configuration files"></a>Add permission &amp; Write configuration files<a class="article-anchor" href="#Add-permission-amp-Write-configuration-files" aria-hidden="true"></a></h3><p>Now,It’s already installed on your computer.But you still need to do some preparations.</p>
+<h3 id="Add-permission-and-configuration-files" class="article-heading"><a href="#Add-permission-and-configuration-files" class="headerlink" title="Add permission and configuration files"></a>Add permission and configuration files<a class="article-anchor" href="#Add-permission-and-configuration-files" aria-hidden="true"></a></h3><p>Add permission and configuration details after installation.</p>
 <h4 id="Add-permission" class="article-heading"><a href="#Add-permission" class="headerlink" title="Add permission"></a>Add permission<a class="article-anchor" href="#Add-permission" aria-hidden="true"></a></h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> sudo  useradd -G plugdev <span class="variable">$USER</span></span></span><br></pre></td></tr></table></figure>
 
-<h4 id="Write-configuration-files" class="article-heading"><a href="#Write-configuration-files" class="headerlink" title="Write configuration files"></a>Write configuration files<a class="article-anchor" href="#Write-configuration-files" aria-hidden="true"></a></h4><p>touch a rules file for it.</p>
+<h4 id="Write-configuration-files" class="article-heading"><a href="#Write-configuration-files" class="headerlink" title="Write configuration files"></a>Write configuration files<a class="article-anchor" href="#Write-configuration-files" aria-hidden="true"></a></h4><p>Create a .rules file:</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> sudo vim /etc/udev/rules.d/51-android.rules</span></span><br></pre></td></tr></table></figure>
 
-<p>Write the following to the file</p>
+<p>Write the following to the .rules file.</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">SUBSYSTEM==&quot;usb&quot;, ENV&#123;DEVTYPE&#125;==&quot;usb_device&quot;, MODE=&quot;0666&quot;</span><br></pre></td></tr></table></figure>
 
-<p>This is a general setup.</p>
-<h3 id="Restart-udev" class="article-heading"><a href="#Restart-udev" class="headerlink" title="Restart udev"></a>Restart udev<a class="article-anchor" href="#Restart-udev" aria-hidden="true"></a></h3><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> sudo /etc/init.d/udev restart</span></span><br></pre></td></tr></table></figure>
+<h4 id="Restart-udev" class="article-heading"><a href="#Restart-udev" class="headerlink" title="Restart udev"></a>Restart udev<a class="article-anchor" href="#Restart-udev" aria-hidden="true"></a></h4><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> sudo /etc/init.d/udev restart</span></span><br></pre></td></tr></table></figure>
+</div>
+<div class="tab-pane fade" id="Windows-pins" role="tabpanel" aria-labelledby="Windows-tab">
 
-<h2 id="How-To-Use-ADB" class="article-heading"><a href="#How-To-Use-ADB" class="headerlink" title="How To Use ADB"></a>How To Use ADB<a class="article-anchor" href="#How-To-Use-ADB" aria-hidden="true"></a></h2><h3 id="ADB-over-Wi-Fi-LAN" class="article-heading"><a href="#ADB-over-Wi-Fi-LAN" class="headerlink" title="ADB over Wi-Fi/LAN"></a>ADB over Wi-Fi/LAN<a class="article-anchor" href="#ADB-over-Wi-Fi-LAN" aria-hidden="true"></a></h3><ul>
-<li><p>Ensure that either the Wi-Fi or LAN is connected.</p>
+<h2 id="Install-ADB-1" class="article-heading"><a href="#Install-ADB-1" class="headerlink" title="Install ADB"></a>Install ADB<a class="article-anchor" href="#Install-ADB-1" aria-hidden="true"></a></h2><p>Install the <a href="UpgradeViaUSBCable.html">ADB USB driver</a>, then download <a target="_blank" rel="noopener external nofollow noreferrer" href="https://dl.khadas.com/products/edge/tool/ADB.zip">adb.zip</a>.</p>
+<p>Unzip the compressed file to the root directory of the <code>cmd</code> console, as shown below:<br><img src="/android/images/vim4/adb.png" alt="mac"></p>
+</div>
+</div>
+
+<h2 id="Use-ADB" class="article-heading"><a href="#Use-ADB" class="headerlink" title="Use ADB"></a>Use ADB<a class="article-anchor" href="#Use-ADB" aria-hidden="true"></a></h2><h3 id="ADB-over-Wi-Fi-LAN" class="article-heading"><a href="#ADB-over-Wi-Fi-LAN" class="headerlink" title="ADB over Wi-Fi/LAN"></a>ADB over Wi-Fi/LAN<a class="article-anchor" href="#ADB-over-Wi-Fi-LAN" aria-hidden="true"></a></h3><ul>
+<li><p>Ensure that either Wi-Fi or LAN is connected</p>
 </li>
-<li><p>Enable ADB debugging on your Device: <code>Settings--&gt;Developer options---&gt;USB debugging</code></p>
+<li><p>Enable ADB debugging on your SBC: <code>Settings--&gt;Developer options--&gt;USB debugging</code></p>
 </li>
-<li><p>Check the IP address of your Device: <code>Settings--&gt;About device---&gt;Status---&gt;IP</code></p>
+<li><p>Check the IP address of your SBC: <code>Settings--&gt;About device--&gt;Status--&gt;IP</code></p>
 </li>
 <li><p>Run the <code>adb connect</code> command:</p>
-</li>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> adb connect 192.168.1.120</span></span><br><span class="line"><span class="meta">$</span><span class="bash"> adb shell</span></span><br></pre></td></tr></table></figure></li>
 </ul>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> adb connect 192.168.1.120</span></span><br><span class="line">connected to 192.168.1.120:5555</span><br><span class="line"><span class="meta">$</span><span class="bash"> adb shell</span></span><br></pre></td></tr></table></figure>
-
 <h3 id="ADB-over-USB" class="article-heading"><a href="#ADB-over-USB" class="headerlink" title="ADB over USB"></a>ADB over USB<a class="article-anchor" href="#ADB-over-USB" aria-hidden="true"></a></h3><ul>
-<li><p>Ensure that a USB-C cable is connected between your PC and VIM.</p>
+<li><p>Ensure that a USB-C cable is connected between your PC and SBC</p>
 </li>
-<li><p>Enable ADB debugging on your device: <code>Settings--&gt;Developer options---&gt;USB debugging</code></p>
+<li><p>Enable ADB debugging on your SBC: <code>Settings--&gt;Developer options--&gt;USB debugging</code></p>
 </li>
-<li><p>Open a terminal and type:</p>
-</li>
+<li><p>Open a Terminal and type:</p>
+<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> adb shell</span></span><br></pre></td></tr></table></figure></li>
 </ul>
-<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> adb shell</span></span><br></pre></td></tr></table></figure>
-<h3 id="Resource" class="article-heading"><a href="#Resource" class="headerlink" title="Resource"></a>Resource<a class="article-anchor" href="#Resource" aria-hidden="true"></a></h3><ul>
+<h2 id="Links" class="article-heading"><a href="#Links" class="headerlink" title="Links"></a>Links<a class="article-anchor" href="#Links" aria-hidden="true"></a></h2><ul>
 <li><a target="_blank" rel="noopener external nofollow noreferrer" href="https://developer.android.com/studio/command-line/adb.html">Android Debug Bridge</a></li>
 </ul>
-<p><strong>note</strong>:</p>
-<p>1.if you android deivce is a phone,you must open <em>developer model</em>.</p>
-<p>2.When you try to debug your Android device with  <code>adb devices</code> ,There will be a proposal on your mobile phone.Please check it. </p>
-<p>3.If your Android device is the development board of khadas,direct connection is enough.</p>
+<blockquote class="note info"><strong class="note-title">Note</strong><ul>
+<li>If you android device is a phone, you must enable <em>developer mode</em></li>
+<li>When you try to debug your Android device with <code>adb devices</code>, a notification will appear that you must accept</li>
+<li>If your Android device is a Khadas SBC, <em>developer mode</em> is enabled by default</li>
+</ul>
+</blockquote>
 
               </div>
               <footer class="article-footer">
-                <time class="article-footer-updated" datetime="2021-11-26T10:46:46.968Z" itemprop="dateModified">Last updated: 2021-11-26</time>
+                <time class="article-footer-updated" datetime="2022-03-22T01:19:13.598Z" itemprop="dateModified">Last updated: 2022-03-22</time>
                 <a href="index.html" class="article-footer-next" title="Overview"><span>Next</span><i class="fa fa-chevron-right"></i></a>
               </footer>
               
@@ -192,7 +210,7 @@
             <div id="article-toc-inner">
               <div class="article-toc-border">
                 <strong class="sidebar-title">Contents</strong>
-                <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Install-ADB"><span class="toc-text" title="Install ADB">Install ADB</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#How-to-install-ADB"><span class="toc-text" title="How to install ADB">How to install ADB</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Add-permission-amp-Write-configuration-files"><span class="toc-text" title="Add permission &amp; Write configuration files">Add permission &amp; Write configuration files</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Add-permission"><span class="toc-text" title="Add permission">Add permission</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Write-configuration-files"><span class="toc-text" title="Write configuration files">Write configuration files</span></a></li></ol></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Restart-udev"><span class="toc-text" title="Restart udev">Restart udev</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#How-To-Use-ADB"><span class="toc-text" title="How To Use ADB">How To Use ADB</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#ADB-over-Wi-Fi-LAN"><span class="toc-text" title="ADB over Wi-Fi&#x2F;LAN">ADB over Wi-Fi&#x2F;LAN</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#ADB-over-USB"><span class="toc-text" title="ADB over USB">ADB over USB</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Resource"><span class="toc-text" title="Resource">Resource</span></a></li></ol></li></ol>
+                <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Install-ADB"><span class="toc-text" title="Install ADB">Install ADB</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Add-permission-and-configuration-files"><span class="toc-text" title="Add permission and configuration files">Add permission and configuration files</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Add-permission"><span class="toc-text" title="Add permission">Add permission</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Write-configuration-files"><span class="toc-text" title="Write configuration files">Write configuration files</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Restart-udev"><span class="toc-text" title="Restart udev">Restart udev</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Install-ADB-1"><span class="toc-text" title="Install ADB">Install ADB</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Use-ADB"><span class="toc-text" title="Use ADB">Use ADB</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#ADB-over-Wi-Fi-LAN"><span class="toc-text" title="ADB over Wi-Fi&#x2F;LAN">ADB over Wi-Fi&#x2F;LAN</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#ADB-over-USB"><span class="toc-text" title="ADB over USB">ADB over USB</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Links"><span class="toc-text" title="Links">Links</span></a></li></ol>
                 <a href="#" id="article-toc-top">Back to Top</a>
               </div>
             </div>
@@ -201,7 +219,7 @@
       </article>
       <aside id="sidebar" role="navigation">
   <div class="inner">
-    <strong class="sidebar-title"><details open><summary>Quick Start</summary><a href="index.html" class="sidebar-link first">Overview</a><a href="Interfaces.html" class="sidebar-link">Interfaces</a><a href="AddChineseSupport.html" class="sidebar-link">Chinese Support</a><a href="BootIntoUpgradeMode.html" class="sidebar-link">Enter Upgrade Mode</a><a href="UpgradeViaUSBCable.html" class="sidebar-link">Upgrade Using USB-C Cable</a><a href="UpgradeViaTFBurningCard.html" class="sidebar-link">Upgrade Android Using SD-Card</a></details></strong><strong class="sidebar-title"><details open><summary>Rescoures Control</summary><strong class="sidebar-link"><details open><summary>System Control</summary><a href="ADBTool.html" class="sidebar-link current secondary-first">ADB Usage</a></details></strong><strong class="sidebar-link"><details open><summary>Board Rescoures</summary><a href="AccessGpio.html" class="sidebar-link secondary-first">GPIO Usage</a><a href="AccessI2c.html" class="sidebar-link">I2C Usage</a></details></strong></details></strong><strong class="sidebar-title"><details open><summary>Development</summary><strong class="sidebar-link"><details open><summary>U-Boot</summary><a href="UBootUsage.html" class="sidebar-link secondary-first">U-Boot Usage Guide</a><a href="BuildBootLogoForUboot.html" class="sidebar-link">Boot Logo For U-boot</a><a href="SetupTFTPServer.html" class="sidebar-link">TFTP Server for U-Boot</a><a href="LoadImagesWithUBootViaTFTP.html" class="sidebar-link">Load Images with U-Boot Using TFTP</a></details></strong><strong class="sidebar-link"><details open><summary>Firmware && System</summary><a href="InstallToolchains.html" class="sidebar-link secondary-first">Install Toolchains</a><a href="DownloadAndroidSourceCode.html" class="sidebar-link">Download Android Source Code</a><a href="BuildAndroid.html" class="sidebar-link">Build Android Source Code</a><a href="FastPackageUpdateImage.html" class="sidebar-link">Fast Package Update Image</a><a href="CreateBurnCardViaCLI.html" class="sidebar-link">Create Burning Card Using CLI</a><a href="CreateBootableSDCard.html" class="sidebar-link">Create Booting Card Using CLI</a><a href="EraseEMMC.html" class="sidebar-link">Erase eMMC Storage</a></details></strong><strong class="sidebar-link"><details open><summary>Hardware</summary><a href="SetupSerialTool.html" class="sidebar-link secondary-first">Serial Debugging Tool</a><a href="ExtraPowerInput.html" class="sidebar-link">Extra Power Input</a></details></strong></details></strong><strong class="sidebar-title"><details open><summary>Troubleshooting</summary><a href="CaptureLog.html" class="sidebar-link first">Capture Running Log</a></details></strong>
+    <strong class="sidebar-title"><details open><summary>Quick Start</summary><a href="index.html" class="sidebar-link first">Overview</a><a href="Interfaces.html" class="sidebar-link">Interfaces</a><a href="AddChineseSupport.html" class="sidebar-link">Chinese Support</a><a href="BootIntoUpgradeMode.html" class="sidebar-link">Enter Upgrade Mode</a><a href="UpgradeViaUSBCable.html" class="sidebar-link">Upgrade Using USB-C Cable</a><a href="UpgradeViaTFBurningCard.html" class="sidebar-link">Upgrade Android Using SD-Card</a></details></strong><strong class="sidebar-title"><details open><summary>Resources Control</summary><strong class="sidebar-link"><details open><summary>System Control</summary><a href="ADBTool.html" class="sidebar-link current secondary-first">ADB Usage</a></details></strong><strong class="sidebar-link"><details open><summary>Board Resources</summary><a href="AccessGpio.html" class="sidebar-link secondary-first">GPIO Usage</a><a href="AccessI2c.html" class="sidebar-link">I2C Usage</a></details></strong></details></strong><strong class="sidebar-title"><details open><summary>Development</summary><strong class="sidebar-link"><details open><summary>U-Boot</summary><a href="UBootUsage.html" class="sidebar-link secondary-first">U-Boot Usage Guide</a><a href="BuildBootLogoForUboot.html" class="sidebar-link">Boot Logo For U-boot</a><a href="SetupTFTPServer.html" class="sidebar-link">TFTP Server for U-Boot</a><a href="LoadImagesWithUBootViaTFTP.html" class="sidebar-link">Load Images with U-Boot Using TFTP</a></details></strong><strong class="sidebar-link"><details open><summary>Firmware && System</summary><a href="InstallToolchains.html" class="sidebar-link secondary-first">Install Toolchains</a><a href="DownloadAndroidSourceCode.html" class="sidebar-link">Download Android Source Code</a><a href="BuildAndroid.html" class="sidebar-link">Build Android Source Code</a><a href="FastPackageUpdateImage.html" class="sidebar-link">Fast Package Update Image</a><a href="CreateBurnCardViaCLI.html" class="sidebar-link">Create Burning Card Using CLI</a><a href="CreateBootableSDCard.html" class="sidebar-link">Create Booting Card Using CLI</a><a href="EraseEMMC.html" class="sidebar-link">Erase eMMC Storage</a></details></strong><strong class="sidebar-link"><details open><summary>Hardware</summary><a href="SetupSerialTool.html" class="sidebar-link secondary-first">Serial Debugging Tool</a><a href="ExtraPowerInput.html" class="sidebar-link">Extra Power Input</a></details></strong></details></strong><strong class="sidebar-title"><details open><summary>Troubleshooting</summary><a href="CaptureLog.html" class="sidebar-link first">Capture Running Log</a></details></strong>
   </div>
 </aside>
     </div>
@@ -227,13 +245,13 @@
   <nav id="mobile-nav">
   <div id="mobile-nav-inner">
     <ul id="mobile-nav-list">
-      <strong class="mobile-nav-link current header"><details open><summary>VIM</summary><a href="/android/vim1/" class="mobile-nav-link secondary current">VIM1</a><a href="/android/vim2/" class="mobile-nav-link secondary ">VIM2</a><a href="/android/vim3/" class="mobile-nav-link secondary ">VIM3</a></details></strong><a href="/android/edge/" class="mobile-nav-link  header">Edge</a><a href="/android/hardware/hardwareVim1" class="mobile-nav-link  header">Hardware</a><a href="/android/firmware/Vim1AndroidFirmware" class="mobile-nav-link  header">Firmware</a>
+      <strong class="mobile-nav-link current header"><details open><summary>VIM</summary><a href="/android/vim1/" class="mobile-nav-link secondary current">VIM1</a><a href="/android/vim2/" class="mobile-nav-link secondary ">VIM2</a><a href="/android/vim3/" class="mobile-nav-link secondary ">VIM3/3L</a><a href="/android/vim4/" class="mobile-nav-link secondary ">VIM4</a></details></strong><a href="/android/edge/" class="mobile-nav-link  header">Edge</a><a href="/android/hardware/hardwareVim1" class="mobile-nav-link  header">Hardware</a><a href="/android/firmware/Vim1AndroidFirmware" class="mobile-nav-link  header">Firmware</a>
       <li class="mobile-nav-item">
         <a href="https://github.com/khadas" class="mobile-nav-link header" rel="external" target="_blank">GitHub</a>
       </li>
     </ul>
     
-      <strong class="mobile-nav-title"><details open><summary>Quick Start</summary><a href="index.html" class="mobile-nav-link first">Overview</a><a href="Interfaces.html" class="mobile-nav-link">Interfaces</a><a href="AddChineseSupport.html" class="mobile-nav-link">Chinese Support</a><a href="BootIntoUpgradeMode.html" class="mobile-nav-link">Enter Upgrade Mode</a><a href="UpgradeViaUSBCable.html" class="mobile-nav-link">Upgrade Using USB-C Cable</a><a href="UpgradeViaTFBurningCard.html" class="mobile-nav-link">Upgrade Android Using SD-Card</a></details></strong><strong class="mobile-nav-title"><details open><summary>Rescoures Control</summary><strong class="mobile-nav-link"><details open><summary>System Control</summary><a href="ADBTool.html" class="mobile-nav-link current secondary-first">ADB Usage</a></details></strong><strong class="mobile-nav-link"><details open><summary>Board Rescoures</summary><a href="AccessGpio.html" class="mobile-nav-link secondary-first">GPIO Usage</a><a href="AccessI2c.html" class="mobile-nav-link">I2C Usage</a></details></strong></details></strong><strong class="mobile-nav-title"><details open><summary>Development</summary><strong class="mobile-nav-link"><details open><summary>U-Boot</summary><a href="UBootUsage.html" class="mobile-nav-link secondary-first">U-Boot Usage Guide</a><a href="BuildBootLogoForUboot.html" class="mobile-nav-link">Boot Logo For U-boot</a><a href="SetupTFTPServer.html" class="mobile-nav-link">TFTP Server for U-Boot</a><a href="LoadImagesWithUBootViaTFTP.html" class="mobile-nav-link">Load Images with U-Boot Using TFTP</a></details></strong><strong class="mobile-nav-link"><details open><summary>Firmware && System</summary><a href="InstallToolchains.html" class="mobile-nav-link secondary-first">Install Toolchains</a><a href="DownloadAndroidSourceCode.html" class="mobile-nav-link">Download Android Source Code</a><a href="BuildAndroid.html" class="mobile-nav-link">Build Android Source Code</a><a href="FastPackageUpdateImage.html" class="mobile-nav-link">Fast Package Update Image</a><a href="CreateBurnCardViaCLI.html" class="mobile-nav-link">Create Burning Card Using CLI</a><a href="CreateBootableSDCard.html" class="mobile-nav-link">Create Booting Card Using CLI</a><a href="EraseEMMC.html" class="mobile-nav-link">Erase eMMC Storage</a></details></strong><strong class="mobile-nav-link"><details open><summary>Hardware</summary><a href="SetupSerialTool.html" class="mobile-nav-link secondary-first">Serial Debugging Tool</a><a href="ExtraPowerInput.html" class="mobile-nav-link">Extra Power Input</a></details></strong></details></strong><strong class="mobile-nav-title"><details open><summary>Troubleshooting</summary><a href="CaptureLog.html" class="mobile-nav-link first">Capture Running Log</a></details></strong>
+      <strong class="mobile-nav-title"><details open><summary>Quick Start</summary><a href="index.html" class="mobile-nav-link first">Overview</a><a href="Interfaces.html" class="mobile-nav-link">Interfaces</a><a href="AddChineseSupport.html" class="mobile-nav-link">Chinese Support</a><a href="BootIntoUpgradeMode.html" class="mobile-nav-link">Enter Upgrade Mode</a><a href="UpgradeViaUSBCable.html" class="mobile-nav-link">Upgrade Using USB-C Cable</a><a href="UpgradeViaTFBurningCard.html" class="mobile-nav-link">Upgrade Android Using SD-Card</a></details></strong><strong class="mobile-nav-title"><details open><summary>Resources Control</summary><strong class="mobile-nav-link"><details open><summary>System Control</summary><a href="ADBTool.html" class="mobile-nav-link current secondary-first">ADB Usage</a></details></strong><strong class="mobile-nav-link"><details open><summary>Board Resources</summary><a href="AccessGpio.html" class="mobile-nav-link secondary-first">GPIO Usage</a><a href="AccessI2c.html" class="mobile-nav-link">I2C Usage</a></details></strong></details></strong><strong class="mobile-nav-title"><details open><summary>Development</summary><strong class="mobile-nav-link"><details open><summary>U-Boot</summary><a href="UBootUsage.html" class="mobile-nav-link secondary-first">U-Boot Usage Guide</a><a href="BuildBootLogoForUboot.html" class="mobile-nav-link">Boot Logo For U-boot</a><a href="SetupTFTPServer.html" class="mobile-nav-link">TFTP Server for U-Boot</a><a href="LoadImagesWithUBootViaTFTP.html" class="mobile-nav-link">Load Images with U-Boot Using TFTP</a></details></strong><strong class="mobile-nav-link"><details open><summary>Firmware && System</summary><a href="InstallToolchains.html" class="mobile-nav-link secondary-first">Install Toolchains</a><a href="DownloadAndroidSourceCode.html" class="mobile-nav-link">Download Android Source Code</a><a href="BuildAndroid.html" class="mobile-nav-link">Build Android Source Code</a><a href="FastPackageUpdateImage.html" class="mobile-nav-link">Fast Package Update Image</a><a href="CreateBurnCardViaCLI.html" class="mobile-nav-link">Create Burning Card Using CLI</a><a href="CreateBootableSDCard.html" class="mobile-nav-link">Create Booting Card Using CLI</a><a href="EraseEMMC.html" class="mobile-nav-link">Erase eMMC Storage</a></details></strong><strong class="mobile-nav-link"><details open><summary>Hardware</summary><a href="SetupSerialTool.html" class="mobile-nav-link secondary-first">Serial Debugging Tool</a><a href="ExtraPowerInput.html" class="mobile-nav-link">Extra Power Input</a></details></strong></details></strong><strong class="mobile-nav-title"><details open><summary>Troubleshooting</summary><a href="CaptureLog.html" class="mobile-nav-link first">Capture Running Log</a></details></strong>
     
   </div>
   <div id="mobile-lang-select-wrap">
