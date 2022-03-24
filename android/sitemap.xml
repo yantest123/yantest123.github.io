@@ -2,3078 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://docs.khadas.com/vim2/ADBTool</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/ADBTool</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/ADBTool</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/ADBTool</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/AppPlatformSign</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/ChangeBootAnimation</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/AddChineseSupport</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/ChangeBootLogo</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2022-03-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/KbiGuidance</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/KbiGuidance</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/ExtraPowerInput</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/ExtraPowerInput</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/ExtraPowerInput</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/CreateBurnCardViaCLI</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/CreateBootableSDCard</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/SetupTFTPServer</loc>
-    
-    <lastmod>2022-03-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/SetupSerialTool</loc>
-    
-    <lastmod>2022-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/ExtraPowerInput</loc>
-    
-    <lastmod>2022-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/BootIntoUpgradeMode</loc>
-    
-    <lastmod>2022-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/InstallOsIntoEmmc</loc>
-    
-    <lastmod>2022-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/</loc>
-    
-    <lastmod>2022-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/ListOfCompatibleNVMeSSDs</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/LoadImagesWithUBootViaTFTP</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/NpuJniUsage</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/SettingsCommand</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/SetupPcieUsbPort</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/UBootUsage</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/UseRecovery</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/UseUart</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/Vim3Interfaces</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/Wol</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/KhadasSettingsUsage</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/ADBTool</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/AccessI2c</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/CaptureLog</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/EraseEMMC</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/ADBTool</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/AccessGpio</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/AccessI2c</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/AddChineseSupport</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/AndroidAPPAddWindowPermission</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/AndroidAddPermission</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/AndroidNpuDemo</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/AndroidTTS</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/AppPlatformSign</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/BootFromSpiFlash</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/BuildAndroid</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/BuildBootLogoForUboot</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/CaptureLog</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/ChangeBootAnimation</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/ChangeBootLogo</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/ConnectLcd</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/DownloadAndroidSourceCode</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/EnableM2xEthernet</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/EraseEMMC</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/ExtraPowerInput</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/FastPackageUpdateImage</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/FenixScript</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/GPIOPinout</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/GetGpsData</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/GetGsensorData</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/HardwareDocs</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/HardwareExtra</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/HowToAccessI2c_android</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/HowToAddIr</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/HowToUseFastboot</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/HowToUsePwm</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/InstallToolchains</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/KhadasSettingsUsage</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/ListOfCompatibleNVMeSSDs</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/NpuJniUsage</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/SettingsCommand</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/LoadImagesWithUBootViaTFTP</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/SetupPcieUsbPort</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/UBootUsage</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/UseRecovery</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/UseUart</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/Vim3Interfaces</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/Wol</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/ADBTool</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/AccessI2c</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/CaptureLog</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/EraseEMMC</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/ADBTool</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/AccessI2c</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/CaptureLog</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/EraseEMMC</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/BootFromSpiFlash</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/BuildAndroid</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/BuildBootLogoForUboot</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/ConnectLcd</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/DownloadAndroidSourceCode</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/EnableM2xEthernet</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/ExtraPowerInput</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/FastPackageUpdateImage</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/FenixScript</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/FirmwareAndroid</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/FirmwareThirdparty</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/FirmwareUboot</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/GPIOPinout</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/GetGpsData</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/GetGsensorData</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/HowToAddIr</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/HowToUseFastboot</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/HowToUsePwm</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/InstallToolchains</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/AccessI2c</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/CaptureLog</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/EraseEMMC</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/AccessI2c</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/CaptureLog</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/EraseEMMC</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/AccessI2c</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/CaptureLog</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/EraseEMMC</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/AccessGpio</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/AccessI2c</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/AccessI2c_android</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/AndroidAPPAddWindowPermission</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/AndroidAddPermission</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/AndroidNpuDemo</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/AndroidTTS</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/CaptureLog</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/EraseEMMC</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/CreateBurnCardViaCLI</loc>
-    
-    <lastmod>2022-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/InstallOsIntoEmmc</loc>
-    
-    <lastmod>2022-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/SetupSerialTool</loc>
-    
-    <lastmod>2022-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/CreateBootableSDCard</loc>
-    
-    <lastmod>2022-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/SetupTFTPServer</loc>
-    
-    <lastmod>2022-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/BootIntoUpgradeMode</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/Interfaces</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/Interfaces</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/SetupSerialTool</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/BootIntoUpgradeMode</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/SetupSerialTool</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/SetupSerialTool</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2021-12-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/ListOfCompatibleNVMeSSDs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/Interfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/ListOfCompatibleNVMeSSDs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/NpuJniUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/SettingsCommand</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/SetupPcieUsbPort</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/UseRecovery</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/UseUart</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/Vim3Interfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/AddChineseSupport</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/FenixScript</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/KbiGuidance</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/Wol</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/EdgeAndroidFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/EdgeThirdpartyFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/EdgeUbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim1AndroidFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim1ThirdpartyFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim1UbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim2AndroidFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim2ThirdpartyFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim2UbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3AndroidFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3ThirdpartyFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3UbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3lAndroidFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3lThirdpartyFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3lUbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareEdge</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareTone1</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareVim1</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareVim2</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareVim3</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/hardware/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/tone1/HardwareDocs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/tone1/HowToUseToneInLinux</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/tone1/HowtoUpgradeFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/tone1/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/tone1/UserManual</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/AccessGpio</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/BootIntoUpgradeMode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/AddChineseSupport</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/BuildAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/BuildBootLogoForUboot</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/CreateBootableSDCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/CreateBurnCardViaCLI</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/DownloadAndroidSourceCode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/CreateLibreELECBootCardViaCLI</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/ExtraPowerInput</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/FastPackageUpdateImage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/FenixScript</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareDualos</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareLibreelec</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareThirdparty</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareUboot</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareUbuntu</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/GPIOPinout</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/HardwareDocs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/HardwareExtra</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/InstallToolchains</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/Interfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/LoadImagesWithUBootViaTFTP</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/SetupSerialTool</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/SetupTFTPServer</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/UBootUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/VimInterfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/AccessGpio</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/AddChineseSupport</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/BootIntoUpgradeMode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/BuildAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/BuildBootLogoForUboot</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/BuildFuchsia</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/CreateBootableSDCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/CreateBurnCardViaCLI</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/DownloadAndroidSourceCode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/ExtraPowerInput</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/FastPackageUpdateImage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/FenixScript</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareDualos</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareLibreelec</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareThirdparty</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareUboot</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareUbuntu</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/ForceResetFeatures</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/GPIOPinout</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/HardwareDocs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/HardwareExtra</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/InstallToolchains</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/Interfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/KbiGuidance</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/LoadImagesWithUBootViaTFTP</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/McuCodeFlowChart</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/McuDevelop</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/SetupSerialTool</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/SetupTFTPServer</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/UBootUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/Vim2Interfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/Wol</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/AccessGpio</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/AddChineseSupport</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/AndroidNpuDemo</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/AppPlatformSign</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/BootFromSpiFlash</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/BootIntoUpgradeMode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/BuildAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/BuildBootLogoForUboot</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/ChangeBootAnimation</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/ChangeBootLogo</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/ConnectLcd</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/CreateBootableSDCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/CreateBurnCardViaCLI</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/DownloadAndroidSourceCode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/EnableM2xEthernet</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/ExtraPowerInput</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/FastPackageUpdateImage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/FenixScript</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/GPIOPinout</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/GetGpsData</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/GetGsensorData</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/HardwareDocs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/HardwareExtra</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/HowToAccessI2c_android</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/HowToAddIr</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/HowToUseFastboot</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/HowToUsePwm</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/InstallToolchains</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/KbiGuidance</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/LoadImagesWithUBootViaTFTP</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/SetupSerialTool</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/SetupTFTPServer</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/UBootUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/Wol</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/Vim3Interfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/ADBTool</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/AccessGpio</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/BootFromSpiFlash</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/BootIntoUpgradeMode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/BuildAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/CaptainGPIOPinout</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/CaptainInterfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/ConnectLcd</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/DownloadAndroidSourceCode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/EdgeCaptainPowerPriority</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/EdgeVGPIOPinout</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/EdgeInterfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/EdgeVInterfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/EraseEMMC</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/HardwareDocs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/HardwareExtra</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/HowToUseLTEModule</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/InstallToolchains</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/InstructionsforEdgeSinglePackBurningTool</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/RockchipDocs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/SetupSerialTool</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/EdgeAndroidFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/EdgeThirdpartyFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/EdgeUbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/EdgeUbuntuFirmwareReleaseNote</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim1AndroidFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim1ThirdpartyFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim1UbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim1UbuntuFirmwareReleaseNote</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim2AndroidFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim2ThirdpartyFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim2UbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim2UbuntuFirmwareReleaseNote</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim3ThirdpartyFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/firmware/Vim3AndroidFirmware</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim3UbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim3UbuntuFirmwareReleaseNote</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2022-02-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3082,34 +13,52 @@
   <url>
     <loc>https://docs.khadas.com/firmware/Vim3lAndroidFirmware</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2022-02-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/firmware/Vim3lThirdpartyFirmware</loc>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3AndroidFirmware</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/firmware/Vim3lUbuntuFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2022-02-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/firmware/Vim3lUbuntuFirmwareReleaseNote</loc>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3lAndroidFirmware</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2022-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/AndroidHwDecodeDemo</loc>
+    
+    <lastmod>2022-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/AndroidHwDecodeDemo</loc>
+    
+    <lastmod>2022-02-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim1AndroidFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3118,619 +67,16 @@
   <url>
     <loc>https://docs.khadas.com/firmware/</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/edge/AddChineseSupport</loc>
+    <loc>https://docs.khadas.com/vim1/ExtraPowerInput</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/ConnectLcd</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/DownloadAndroidSourceCode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/EdgeCaptainPowerPriority</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/EdgeInterfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/EdgeVGPIOPinout</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/EdgeVInterfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/EraseEMMC</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/FenixScript</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/HowToUseLTEModule</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/InstallToolchains</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/InstructionsforEdgeSinglePackBurningTool</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/KbiGuidance</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/ListOfCompatibleNVMeSSDs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/RockchipDocs</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/SetupSerialTool</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/UBootUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/UpgradeViaTFBurningCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/UpgradeViaUSBCable</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/edge/Wol</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/hardware/hardwareEdge</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/hardware/hardwareTone1</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/hardware/hardwareVim1</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/hardware/hardwareVim2</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/hardware/hardwareVim3</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/hardware/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/tone1/HowToUseToneInLinux</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/tone1/HowtoUpgradeFirmware</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/tone1/UserManual</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/tone1/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/AccessGpio</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/AddChineseSupport</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/BootIntoUpgradeMode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/BuildAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/BuildBootLogoForUboot</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/BuildFuchsia</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/CreateBootableSDCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/CreateBurnCardViaCLI</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/DownloadAndroidSourceCode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/FastPackageUpdateImage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/FenixScript</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/FirmwareAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/FirmwareThirdparty</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/FirmwareUboot</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/ForceResetFeatures</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/GPIOPinout</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/InstallToolchains</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/Interfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/KbiGuidance</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/LoadImagesWithUBootViaTFTP</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/McuCodeFlowChart</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/McuDevelop</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/SetupTFTPServer</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/UBootUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/Vim2Interfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/Wol</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/AccessGpio</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/AddChineseSupport</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/BuildAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/BuildBootLogoForUboot</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/CreateBootableSDCard</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/CreateBurnCardViaCLI</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/DownloadAndroidSourceCode</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/FastPackageUpdateImage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/FenixScript</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3739,7 +85,7 @@
   <url>
     <loc>https://docs.khadas.com/vim1/FirmwareAndroid</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3748,7 +94,7 @@
   <url>
     <loc>https://docs.khadas.com/vim1/FirmwareThirdparty</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3757,70 +103,7 @@
   <url>
     <loc>https://docs.khadas.com/vim1/FirmwareUboot</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/GPIOPinout</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/InstallToolchains</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/Interfaces</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/LoadImagesWithUBootViaTFTP</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/SetupTFTPServer</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/UBootUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3829,169 +112,88 @@
   <url>
     <loc>https://docs.khadas.com/vim1/VimInterfaces</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim3/AccessGpio</loc>
+    <loc>https://docs.khadas.com/vim1/</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/AccessI2c_android</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim3/AddChineseSupport</loc>
+    <loc>https://docs.khadas.com/zh-cn/ExtraPowerInput</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/AndroidNpuDemo</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim3/AppPlatformSign</loc>
+    <loc>https://docs.khadas.com/vim2/ExtraPowerInput</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/BootFromSpiFlash</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim3/BootIntoUpgradeMode</loc>
+    <loc>https://docs.khadas.com/vim2/FirmwareAndroid</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/BuildAndroid</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim3/BuildBootLogoForUboot</loc>
+    <loc>https://docs.khadas.com/vim2/FirmwareThirdparty</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/ChangeBootAnimation</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim3/ChangeBootLogo</loc>
+    <loc>https://docs.khadas.com/vim2/FirmwareUboot</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/ConnectLcd</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim3/CreateBootableSDCard</loc>
+    <loc>https://docs.khadas.com/vim2/Vim2Interfaces</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/CreateBurnCardViaCLI</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim3/DownloadAndroidSourceCode</loc>
+    <loc>https://docs.khadas.com/vim2/</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/EnableM2xEthernet</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim3/FastPackageUpdateImage</loc>
+    <loc>https://docs.khadas.com/vim3/ExtraPowerInput</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/FenixScript</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4000,7 +202,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/FirmwareAndroid</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4009,7 +211,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/FirmwareThirdparty</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4018,7 +220,1573 @@
   <url>
     <loc>https://docs.khadas.com/vim3/FirmwareUboot</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/Vim3Interfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim1AndroidFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/ExtraPowerInput</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/VimInterfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/ExtraPowerInput</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/Vim2Interfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/ExtraPowerInput</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/Vim3Interfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/KbiGuidance</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/ListOfCompatibleNVMeSSDs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/Wol</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareUbuntu</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/ForceResetFeatures</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/GPIOPinout</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/HardwareDocs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/HardwareExtra</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/Interfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/KbiGuidance</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/McuCodeFlowChart</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/McuDevelop</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/Wol</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/AndroidNpuDemo</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/AppPlatformSign</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/BootFromSpiFlash</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/BuildAndroid</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/BootIntoUpgradeMode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/ChangeBootAnimation</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/ChangeBootLogo</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/ConnectLcd</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/DownloadAndroidSourceCode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/EnableM2xEthernet</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/FastPackageUpdateImage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/GPIOPinout</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/GetGpsData</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/GetGsensorData</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/HardwareDocs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/HardwareExtra</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/HowToAccessI2c_android</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/HowToAddIr</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/HowToUseFastboot</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/HowToUsePwm</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/InstallToolchains</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/Interfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/KbiGuidance</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/ListOfCompatibleNVMeSSDs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/NpuJniUsage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/SettingsCommand</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/SetupPcieUsbPort</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/UseRecovery</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/UseUart</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/Wol</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/AddChineseSupport</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/FenixScript</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/HowToUseRPiGPIO</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareVim3</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/tone1/HardwareDocs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/tone1/HowToUseToneInLinux</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/tone1/HowtoUpgradeFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/tone1/UserManual</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/tone1/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/ADBTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/AccessGpio</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/AccessI2c</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/AddChineseSupport</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/BootIntoUpgradeMode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/BuildAndroid</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/BuildBootLogoForUboot</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/CaptureLog</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/CreateBootableSDCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/CreateBurnCardViaCLI</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/CreateLibreELECBootCardViaCLI</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/DownloadAndroidSourceCode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/EraseEMMC</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/FastPackageUpdateImage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/FenixScript</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareAndroid</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareDualos</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareLibreelec</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareThirdparty</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareUboot</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/FirmwareUbuntu</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/GPIOPinout</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/HardwareDocs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/HardwareExtra</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/HowToUseRPiGPIO</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/InstallToolchains</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/Interfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/LoadImagesWithUBootViaTFTP</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/SetupSerialTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/SetupTFTPServer</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/UBootUsage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/UpgradeViaTFBurningCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/UpgradeViaUSBCable</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/ADBTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/AccessGpio</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/AccessI2c</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/AddChineseSupport</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/BootIntoUpgradeMode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/BuildAndroid</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/BuildBootLogoForUboot</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/BuildFuchsia</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/CaptureLog</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/CreateBootableSDCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/CreateBurnCardViaCLI</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/EraseEMMC</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/DownloadAndroidSourceCode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/FastPackageUpdateImage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/FenixScript</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareAndroid</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareDualos</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareLibreelec</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareThirdparty</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/FirmwareUboot</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/HowToUseRPiGPIO</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/InstallToolchains</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/LoadImagesWithUBootViaTFTP</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/SetupSerialTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/SetupTFTPServer</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/UBootUsage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/UpgradeViaTFBurningCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/UpgradeViaUSBCable</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/ADBTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/AccessGpio</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/AccessI2c</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/AddChineseSupport</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/BuildBootLogoForUboot</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/CaptureLog</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/CreateBootableSDCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/CreateBurnCardViaCLI</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/EraseEMMC</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/FenixScript</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/HowToUseRPiGPIO</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/LoadImagesWithUBootViaTFTP</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/SetupSerialTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/SetupTFTPServer</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/UBootUsage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/UpgradeViaTFBurningCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/UpgradeViaUSBCable</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/KbiGuidance</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/ListOfCompatibleNVMeSSDs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/Wol</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/UBootUsage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/UpgradeViaTFBurningCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/UpgradeViaUSBCable</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/BootIntoUpgradeMode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/BuildAndroid</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/BuildFuchsia</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/ForceResetFeatures</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/GPIOPinout</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/Interfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/KbiGuidance</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/McuCodeFlowChart</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/McuDevelop</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/UBootUsage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/UpgradeViaTFBurningCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/UpgradeViaUSBCable</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/Wol</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/AccessI2c_android</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/AndroidNpuDemo</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/AppPlatformSign</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/BootFromSpiFlash</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/BootIntoUpgradeMode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/BuildAndroid</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/ChangeBootAnimation</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/ChangeBootLogo</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/ConnectLcd</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/DownloadAndroidSourceCode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/EnableM2xEthernet</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/FastPackageUpdateImage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4027,7 +1795,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/GPIOPinout</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4036,7 +1804,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/GetGpsData</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4045,7 +1813,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/GetGsensorData</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4054,7 +1822,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/HowToAddIr</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4063,7 +1831,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/HowToUseFastboot</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4072,16 +1840,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/HowToUsePwm</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/HowToUseRPiGPIO</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4090,7 +1849,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/InstallToolchains</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4099,7 +1858,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/Interfaces</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4108,7 +1867,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/KbiGuidance</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4117,16 +1876,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/ListOfCompatibleNVMeSSDs</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/LoadImagesWithUBootViaTFTP</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4135,7 +1885,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/NpuJniUsage</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4144,7 +1894,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/SettingsCommand</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4153,16 +1903,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/SetupPcieUsbPort</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/SetupTFTPServer</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4171,7 +1912,25 @@
   <url>
     <loc>https://docs.khadas.com/vim3/UBootUsage</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/UpgradeViaTFBurningCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/UpgradeViaUSBCable</loc>
+    
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4180,7 +1939,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/UseRecovery</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4189,7 +1948,7 @@
   <url>
     <loc>https://docs.khadas.com/vim3/UseUart</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4198,61 +1957,916 @@
   <url>
     <loc>https://docs.khadas.com/vim3/Wol</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/EdgeUbuntuFirmwareReleaseNote</loc>
+    <loc>https://docs.khadas.com/zh-cn/edge/AccessGpio</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim1UbuntuFirmwareReleaseNote</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim2UbuntuFirmwareReleaseNote</loc>
+    <loc>https://docs.khadas.com/zh-cn/edge/ADBTool</loc>
     
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3UbuntuFirmwareReleaseNote</loc>
-    
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3lUbuntuFirmwareReleaseNote</loc>
+    <loc>https://docs.khadas.com/zh-cn/edge/BootFromSpiFlash</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/edge/</loc>
+    <loc>https://docs.khadas.com/zh-cn/edge/BootIntoUpgradeMode</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/BuildAndroid</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/CaptainGPIOPinout</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/CaptainInterfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/ConnectLcd</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/DownloadAndroidSourceCode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/EdgeCaptainPowerPriority</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/EdgeInterfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/EdgeVGPIOPinout</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/EdgeVInterfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/EraseEMMC</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/HardwareDocs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/HardwareExtra</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/HowToUseLTEModule</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/InstallToolchains</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/InstructionsforEdgeSinglePackBurningTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/RockchipDocs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/SetupSerialTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/UpgradeViaTFBurningCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/UpgradeViaUSBCable</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/EdgeAndroidFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/EdgeThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/EdgeUbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim1ThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim1UbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim2AndroidFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim2ThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim2UbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3ThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3UbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3lThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3lUbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareTone1</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareEdge</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareVim1</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/hardware/hardwareVim2</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/hardware/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/AddChineseSupport</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/FenixScript</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/HowToUseRPiGPIO</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/hardware/hardwareVim3</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/tone1/HowToUseToneInLinux</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/tone1/HowtoUpgradeFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/tone1/UserManual</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/tone1/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/ADBTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/AccessGpio</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/AccessI2c</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/AddChineseSupport</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/BootIntoUpgradeMode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/BuildAndroid</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/BuildBootLogoForUboot</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/CaptureLog</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/CreateBootableSDCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/CreateBurnCardViaCLI</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/DownloadAndroidSourceCode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/EraseEMMC</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/FastPackageUpdateImage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/FenixScript</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/GPIOPinout</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/HowToUseRPiGPIO</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/InstallToolchains</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/Interfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/LoadImagesWithUBootViaTFTP</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/SetupSerialTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/SetupTFTPServer</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/ADBTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/AccessGpio</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/AccessI2c</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/AddChineseSupport</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/BuildBootLogoForUboot</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/CaptureLog</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/CreateBootableSDCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/CreateBurnCardViaCLI</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/DownloadAndroidSourceCode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/EraseEMMC</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/FastPackageUpdateImage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/FenixScript</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/HowToUseRPiGPIO</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/InstallToolchains</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/LoadImagesWithUBootViaTFTP</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/SetupSerialTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/SetupTFTPServer</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/ADBTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/AccessGpio</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/AccessI2c</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/AddChineseSupport</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/BuildBootLogoForUboot</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/CaptureLog</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/CreateBootableSDCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/CreateBurnCardViaCLI</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/EraseEMMC</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/FenixScript</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/HowToUseRPiGPIO</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/LoadImagesWithUBootViaTFTP</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/SetupSerialTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/SetupTFTPServer</loc>
+    
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4261,7 +2875,7 @@
   <url>
     <loc>https://docs.khadas.com/404</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4270,7 +2884,7 @@
   <url>
     <loc>https://docs.khadas.com/about/</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4279,7 +2893,7 @@
   <url>
     <loc>https://docs.khadas.com/edge/ADBTool</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4288,7 +2902,7 @@
   <url>
     <loc>https://docs.khadas.com/edge/AccessGpio</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4297,7 +2911,7 @@
   <url>
     <loc>https://docs.khadas.com/edge/BootFromSpiFlash</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4306,7 +2920,7 @@
   <url>
     <loc>https://docs.khadas.com/edge/BootIntoUpgradeMode</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4315,7 +2929,7 @@
   <url>
     <loc>https://docs.khadas.com/edge/BuildAndroid</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4324,7 +2938,7 @@
   <url>
     <loc>https://docs.khadas.com/edge/CaptainGPIOPinout</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4333,7 +2947,7 @@
   <url>
     <loc>https://docs.khadas.com/edge/CaptainInterfaces</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4342,7 +2956,412 @@
   <url>
     <loc>https://docs.khadas.com/edge/CaptureLog</loc>
     
-    <lastmod>2021-12-17</lastmod>
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/DownloadAndroidSourceCode</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/ConnectLcd</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/EdgeCaptainPowerPriority</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/EdgeInterfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/EdgeVGPIOPinout</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/EdgeVInterfaces</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/EraseEMMC</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/HowToUseLTEModule</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/InstallToolchains</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/InstructionsforEdgeSinglePackBurningTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/RockchipDocs</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/SetupSerialTool</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/UBootUsage</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/UpgradeViaTFBurningCard</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/UpgradeViaUSBCable</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/hardware/hardwareEdge</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/hardware/hardwareTone1</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/hardware/hardwareVim1</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/hardware/hardwareVim2</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/hardware/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/EdgeAndroidFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/EdgeThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/EdgeUbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/EdgeUbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim1ThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim1UbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim1UbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim2AndroidFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim2ThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim2UbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim2UbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim3ThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim3UbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim3UbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim3lThirdpartyFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim3lUbuntuFirmware</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/firmware/Vim3lUbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/EdgeUbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim1UbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim2UbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3UbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/firmware/Vim3lUbuntuFirmwareReleaseNote</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/</loc>
+    
+    <lastmod>2021-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/</loc>
+    
+    <lastmod>2021-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4351,7 +3370,7 @@
 
   <url>
     <loc>https://docs.khadas.com/</loc>
-    <lastmod>2022-03-14</lastmod>
+    <lastmod>2022-03-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
