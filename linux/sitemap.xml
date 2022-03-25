@@ -2,6 +2,258 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://docs.khadas.com/vim4/Sdl2</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim4/Sdl2</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/SetupFramebufferConsoleFont</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/SetupFramebufferConsoleFont</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/SetupFramebufferConsoleFont</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim4/SetupFramebufferConsoleFont</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/SetupFramebufferConsoleFont</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim4/UbuntuLogo</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim4/UbuntuLogo</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/edge/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim1/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim2/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim4/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/edge/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim1/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim2/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim4/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/ChineseSupportUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim4/BootFromExtMedia</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim4/BootFromExtMedia</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim3/GsensorUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim4/GsensorUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim3/GsensorUsage</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim4/DeviceTreeOverlay</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim4/DeviceTreeOverlay</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/zh-cn/vim4/SystemConfigFile</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://docs.khadas.com/vim4/SystemConfigFile</loc>
+    
+    <lastmod>2022-03-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://docs.khadas.com/vim1/CreateBootableSDCard</loc>
     
     <lastmod>2022-03-21</lastmod>
@@ -1586,51 +1838,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/edge/ChineseSupportUsage</loc>
-    
-    <lastmod>2022-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim1/ChineseSupportUsage</loc>
-    
-    <lastmod>2022-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim2/ChineseSupportUsage</loc>
-    
-    <lastmod>2022-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/ChineseSupportUsage</loc>
-    
-    <lastmod>2022-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/ChineseSupportUsage</loc>
-    
-    <lastmod>2022-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/edge/WriteSDImageToEmmc</loc>
     
     <lastmod>2022-03-04</lastmod>
@@ -1758,15 +1965,6 @@
   
   <url>
     <loc>https://docs.khadas.com/vim3/UpgradeSystem</loc>
-    
-    <lastmod>2022-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/BootFromExtMedia</loc>
     
     <lastmod>2022-03-04</lastmod>
     
@@ -2396,15 +2594,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/GsensorUsage</loc>
-    
-    <lastmod>2022-02-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/zh-cn/edge/WiringPi</loc>
     
     <lastmod>2022-02-28</lastmod>
@@ -2828,33 +3017,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim4/SystemConfigFile</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/SystemConfigFile</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/BootFromExtMedia</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/zh-cn/vim4/BootIntoUpgradeMode</loc>
     
     <lastmod>2022-02-26</lastmod>
@@ -2999,24 +3161,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/vim4/Sdl2</loc>
-    
-    <lastmod>2022-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/Sdl2</loc>
-    
-    <lastmod>2022-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/zh-cn/vim4/HardwareDecoding</loc>
     
     <lastmod>2022-02-16</lastmod>
@@ -3053,24 +3197,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/UbuntuLogo</loc>
-    
-    <lastmod>2022-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/UbuntuLogo</loc>
-    
-    <lastmod>2022-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/vim4/RotateFramebuffer</loc>
     
     <lastmod>2022-02-16</lastmod>
@@ -3081,24 +3207,6 @@
   
   <url>
     <loc>https://docs.khadas.com/zh-cn/vim4/RotateFramebuffer</loc>
-    
-    <lastmod>2022-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/DeviceTreeOverlay</loc>
-    
-    <lastmod>2022-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim4/DeviceTreeOverlay</loc>
     
     <lastmod>2022-02-16</lastmod>
     
@@ -3566,15 +3674,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/SetupFramebufferConsoleFont</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/zh-cn/edge/UbuntuLogo</loc>
     
     <lastmod>2021-12-17</lastmod>
@@ -3594,15 +3693,6 @@
   
   <url>
     <loc>https://docs.khadas.com/zh-cn/vim1/OsIntroduce</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/SetupFramebufferConsoleFont</loc>
     
     <lastmod>2021-12-17</lastmod>
     
@@ -3710,15 +3800,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/SetupFramebufferConsoleFont</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/zh-cn/vim2/SystemConfigFile</loc>
     
     <lastmod>2021-12-17</lastmod>
@@ -3809,15 +3890,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/SetupFramebufferConsoleFont</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/zh-cn/vim4/UpgradeLinuxKernel</loc>
     
     <lastmod>2021-12-17</lastmod>
@@ -3873,15 +3945,6 @@
   
   <url>
     <loc>https://docs.khadas.com/zh-cn/vim3/InstallOsIntoSdusb</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/GsensorUsage</loc>
     
     <lastmod>2021-12-17</lastmod>
     
@@ -3999,15 +4062,6 @@
   
   <url>
     <loc>https://docs.khadas.com/zh-cn/vim3/RotateFramebuffer</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/SetupFramebufferConsoleFont</loc>
     
     <lastmod>2021-12-17</lastmod>
     
@@ -4170,15 +4224,6 @@
   
   <url>
     <loc>https://docs.khadas.com/zh-cn/edge/BootFromSpiFlash</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/edge/ChineseSupportUsage</loc>
     
     <lastmod>2021-12-17</lastmod>
     
@@ -4628,15 +4673,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/vim1/ChineseSupportUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/zh-cn/vim1/CaptureLog</loc>
     
     <lastmod>2021-12-17</lastmod>
@@ -4727,15 +4763,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/vim2/ChineseSupportUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/zh-cn/vim2/CustomIRCode</loc>
     
     <lastmod>2021-12-17</lastmod>
@@ -4773,15 +4800,6 @@
   
   <url>
     <loc>https://docs.khadas.com/zh-cn/vim4/CaptureLog</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/zh-cn/vim4/ChineseSupportUsage</loc>
     
     <lastmod>2021-12-17</lastmod>
     
@@ -4835,15 +4853,6 @@
   </url>
   
   <url>
-    <loc>https://docs.khadas.com/zh-cn/vim3/ChineseSupportUsage</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://docs.khadas.com/zh-cn/vim3/CustomIRCode</loc>
     
     <lastmod>2021-12-17</lastmod>
@@ -4872,15 +4881,6 @@
   
   <url>
     <loc>https://docs.khadas.com/vim3/ConvertToUseNPU</loc>
-    
-    <lastmod>2021-12-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://docs.khadas.com/vim3/GsensorUsage</loc>
     
     <lastmod>2021-12-17</lastmod>
     
@@ -6187,7 +6187,7 @@
 
   <url>
     <loc>https://docs.khadas.com/</loc>
-    <lastmod>2022-03-24</lastmod>
+    <lastmod>2022-03-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
